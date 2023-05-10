@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Funcations\Funcations\bin\Debug\Funcations.exe.config
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Funcations\Funcations\bin\Debug\Funcations.exe
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Funcations\Funcations\bin\Debug\Funcations.pdb
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Funcations\Funcations\obj\Debug\Funcations.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Funcations\Funcations\obj\Debug\Funcations.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Funcations\Funcations\obj\Debug\Funcations.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Funcations\Funcations\obj\Debug\Funcations.exe
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Funcations\Funcations\obj\Debug\Funcations.pdb

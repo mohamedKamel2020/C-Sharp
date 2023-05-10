@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Methods\Methods\obj\Debug\Methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Methods\Methods\obj\Debug\Methods.pdb
