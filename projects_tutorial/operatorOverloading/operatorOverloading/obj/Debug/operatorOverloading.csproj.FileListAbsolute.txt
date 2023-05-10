@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\operatorOverloading\operatorOverloading\bin\Debug\operatorOverloading.exe.config
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\operatorOverloading\operatorOverloading\bin\Debug\operatorOverloading.exe
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\operatorOverloading\operatorOverloading\bin\Debug\operatorOverloading.pdb
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\operatorOverloading\operatorOverloading\obj\Debug\operatorOverloading.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\operatorOverloading\operatorOverloading\obj\Debug\operatorOverloading.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\operatorOverloading\operatorOverloading\obj\Debug\operatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\operatorOverloading\operatorOverloading\obj\Debug\operatorOverloading.exe
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\operatorOverloading\operatorOverloading\obj\Debug\operatorOverloading.pdb

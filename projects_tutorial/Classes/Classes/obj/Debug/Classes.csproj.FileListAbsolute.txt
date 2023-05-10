@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\Classes\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\Classes\Classes\obj\Debug\Classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\Classes\Classes\obj\Debug\Classes.pdb

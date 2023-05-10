@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\structure\structure\bin\Debug\structure.exe.config
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\structure\structure\bin\Debug\structure.exe
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\structure\structure\bin\Debug\structure.pdb
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\structure\structure\obj\Debug\structure.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\structure\structure\obj\Debug\structure.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\structure\structure\obj\Debug\structure.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\structure\structure\obj\Debug\structure.exe
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\structure\structure\obj\Debug\structure.pdb
