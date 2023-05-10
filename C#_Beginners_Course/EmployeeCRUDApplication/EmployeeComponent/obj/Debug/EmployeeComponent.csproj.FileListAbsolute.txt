@@ -1,0 +1,6 @@
+C:\Users\Dell\Desktop\programing\C#\C# for Beginners Course\EmployeeCRUDApplication\EmployeeComponent\bin\Debug\EmployeeComponent.dll
+C:\Users\Dell\Desktop\programing\C#\C# for Beginners Course\EmployeeCRUDApplication\EmployeeComponent\bin\Debug\EmployeeComponent.pdb
+C:\Users\Dell\Desktop\programing\C#\C# for Beginners Course\EmployeeCRUDApplication\EmployeeComponent\obj\Debug\EmployeeComponent.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\programing\C#\C# for Beginners Course\EmployeeCRUDApplication\EmployeeComponent\obj\Debug\EmployeeComponent.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\programing\C#\C# for Beginners Course\EmployeeCRUDApplication\EmployeeComponent\obj\Debug\EmployeeComponent.dll
+C:\Users\Dell\Desktop\programing\C#\C# for Beginners Course\EmployeeCRUDApplication\EmployeeComponent\obj\Debug\EmployeeComponent.pdb
