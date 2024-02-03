@@ -1,0 +1,36 @@
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Misbaha\Misbaha\bin\Debug\net6.0-windows\Misbaha.exe
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Misbaha\Misbaha\bin\Debug\net6.0-windows\Misbaha.deps.json
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Misbaha\Misbaha\bin\Debug\net6.0-windows\Misbaha.runtimeconfig.json
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Misbaha\Misbaha\bin\Debug\net6.0-windows\Misbaha.dll
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Misbaha\Misbaha\bin\Debug\net6.0-windows\Misbaha.pdb
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\Misbaha.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\Misbaha.Form1.resources
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\Misbaha.Properties.Resources.resources
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\Misbaha.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\Misbaha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\Misbaha.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\Misbaha.AssemblyInfo.cs
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\Misbaha.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\Misbaha.dll
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\ref\Misbaha.dll
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\Misbaha.pdb
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\Misbaha.genruntimeconfig.cache
+C:\Users\Dell\Desktop\programing\C#\projects Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\refint\Misbaha.dll
+C:\Users\Dell\Desktop\programing\C#\projects_Mohammed_S\Misbaha\Misbaha\bin\Debug\net6.0-windows\Misbaha.exe
+C:\Users\Dell\Desktop\programing\C#\projects_Mohammed_S\Misbaha\Misbaha\bin\Debug\net6.0-windows\Misbaha.deps.json
+C:\Users\Dell\Desktop\programing\C#\projects_Mohammed_S\Misbaha\Misbaha\bin\Debug\net6.0-windows\Misbaha.runtimeconfig.json
+C:\Users\Dell\Desktop\programing\C#\projects_Mohammed_S\Misbaha\Misbaha\bin\Debug\net6.0-windows\Misbaha.dll
+C:\Users\Dell\Desktop\programing\C#\projects_Mohammed_S\Misbaha\Misbaha\bin\Debug\net6.0-windows\Misbaha.pdb
+C:\Users\Dell\Desktop\programing\C#\projects_Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\Misbaha.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\programing\C#\projects_Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\Misbaha.Form1.resources
+C:\Users\Dell\Desktop\programing\C#\projects_Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\Misbaha.Properties.Resources.resources
+C:\Users\Dell\Desktop\programing\C#\projects_Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\Misbaha.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\programing\C#\projects_Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\Misbaha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\programing\C#\projects_Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\Misbaha.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\programing\C#\projects_Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\Misbaha.AssemblyInfo.cs
+C:\Users\Dell\Desktop\programing\C#\projects_Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\Misbaha.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\programing\C#\projects_Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\Misbaha.dll
+C:\Users\Dell\Desktop\programing\C#\projects_Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\refint\Misbaha.dll
+C:\Users\Dell\Desktop\programing\C#\projects_Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\Misbaha.pdb
+C:\Users\Dell\Desktop\programing\C#\projects_Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\Misbaha.genruntimeconfig.cache
+C:\Users\Dell\Desktop\programing\C#\projects_Mohammed_S\Misbaha\Misbaha\obj\Debug\net6.0-windows\ref\Misbaha.dll
