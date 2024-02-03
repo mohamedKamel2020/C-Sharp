@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\class diagram\class diagram\bin\Debug\class diagram.exe.config
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\class diagram\class diagram\bin\Debug\class diagram.exe
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\class diagram\class diagram\bin\Debug\class diagram.pdb
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\class diagram\class diagram\obj\Debug\class diagram.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\class diagram\class diagram\obj\Debug\class diagram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\class diagram\class diagram\obj\Debug\class diagram.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\class diagram\class diagram\obj\Debug\class diagram.exe
+C:\Users\Dell\Desktop\programing\C#\projects tutorial\class diagram\class diagram\obj\Debug\class diagram.pdb
