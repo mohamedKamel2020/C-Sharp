@@ -1,0 +1,6 @@
+C:\Users\Dell\Desktop\programing\C#\C# for Beginners Course\SchoolHRAdministration\HRAdministrationAPI\bin\Debug\HRAdministrationAPI.dll
+C:\Users\Dell\Desktop\programing\C#\C# for Beginners Course\SchoolHRAdministration\HRAdministrationAPI\bin\Debug\HRAdministrationAPI.pdb
+C:\Users\Dell\Desktop\programing\C#\C# for Beginners Course\SchoolHRAdministration\HRAdministrationAPI\obj\Debug\HRAdministrationAPI.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\programing\C#\C# for Beginners Course\SchoolHRAdministration\HRAdministrationAPI\obj\Debug\HRAdministrationAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\programing\C#\C# for Beginners Course\SchoolHRAdministration\HRAdministrationAPI\obj\Debug\HRAdministrationAPI.dll
+C:\Users\Dell\Desktop\programing\C#\C# for Beginners Course\SchoolHRAdministration\HRAdministrationAPI\obj\Debug\HRAdministrationAPI.pdb
