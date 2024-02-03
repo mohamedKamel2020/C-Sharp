@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\StringSession03\StringSession03\bin\Debug\net7.0\StringSession03.exe
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\StringSession03\StringSession03\bin\Debug\net7.0\StringSession03.deps.json
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\StringSession03\StringSession03\bin\Debug\net7.0\StringSession03.runtimeconfig.json
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\StringSession03\StringSession03\bin\Debug\net7.0\StringSession03.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\StringSession03\StringSession03\bin\Debug\net7.0\StringSession03.pdb
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\StringSession03\StringSession03\obj\Debug\net7.0\StringSession03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\StringSession03\StringSession03\obj\Debug\net7.0\StringSession03.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\StringSession03\StringSession03\obj\Debug\net7.0\StringSession03.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\StringSession03\StringSession03\obj\Debug\net7.0\StringSession03.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\StringSession03\StringSession03\obj\Debug\net7.0\StringSession03.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\StringSession03\StringSession03\obj\Debug\net7.0\refint\StringSession03.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\StringSession03\StringSession03\obj\Debug\net7.0\StringSession03.pdb
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\StringSession03\StringSession03\obj\Debug\net7.0\StringSession03.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\StringSession03\StringSession03\obj\Debug\net7.0\ref\StringSession03.dll

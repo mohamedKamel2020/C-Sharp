@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\ArraySession03\ArraySession03\obj\Debug\net7.0\ArraySession03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\ArraySession03\ArraySession03\obj\Debug\net7.0\ArraySession03.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\ArraySession03\ArraySession03\obj\Debug\net7.0\ArraySession03.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\ArraySession03\ArraySession03\obj\Debug\net7.0\ArraySession03.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\ArraySession03\ArraySession03\bin\Debug\net7.0\ArraySession03.exe
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\ArraySession03\ArraySession03\bin\Debug\net7.0\ArraySession03.deps.json
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\ArraySession03\ArraySession03\bin\Debug\net7.0\ArraySession03.runtimeconfig.json
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\ArraySession03\ArraySession03\bin\Debug\net7.0\ArraySession03.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\ArraySession03\ArraySession03\bin\Debug\net7.0\ArraySession03.pdb
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\ArraySession03\ArraySession03\obj\Debug\net7.0\ArraySession03.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\ArraySession03\ArraySession03\obj\Debug\net7.0\refint\ArraySession03.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\ArraySession03\ArraySession03\obj\Debug\net7.0\ArraySession03.pdb
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\ArraySession03\ArraySession03\obj\Debug\net7.0\ArraySession03.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 03\ArraySession03\ArraySession03\obj\Debug\net7.0\ref\ArraySession03.dll
