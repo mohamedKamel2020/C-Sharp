@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\programing\My-code\C# issam\CSharpRe2\bin\Debug\net6.0\CSharpRe2.exe
+C:\Users\Dell\Desktop\programing\My-code\C# issam\CSharpRe2\bin\Debug\net6.0\CSharpRe2.deps.json
+C:\Users\Dell\Desktop\programing\My-code\C# issam\CSharpRe2\bin\Debug\net6.0\CSharpRe2.runtimeconfig.json
+C:\Users\Dell\Desktop\programing\My-code\C# issam\CSharpRe2\bin\Debug\net6.0\CSharpRe2.dll
+C:\Users\Dell\Desktop\programing\My-code\C# issam\CSharpRe2\bin\Debug\net6.0\CSharpRe2.pdb
+C:\Users\Dell\Desktop\programing\My-code\C# issam\CSharpRe2\obj\Debug\net6.0\CSharpRe2.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\programing\My-code\C# issam\CSharpRe2\obj\Debug\net6.0\CSharpRe2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\programing\My-code\C# issam\CSharpRe2\obj\Debug\net6.0\CSharpRe2.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\programing\My-code\C# issam\CSharpRe2\obj\Debug\net6.0\CSharpRe2.AssemblyInfo.cs
+C:\Users\Dell\Desktop\programing\My-code\C# issam\CSharpRe2\obj\Debug\net6.0\CSharpRe2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\programing\My-code\C# issam\CSharpRe2\obj\Debug\net6.0\CSharpRe2.dll
+C:\Users\Dell\Desktop\programing\My-code\C# issam\CSharpRe2\obj\Debug\net6.0\refint\CSharpRe2.dll
+C:\Users\Dell\Desktop\programing\My-code\C# issam\CSharpRe2\obj\Debug\net6.0\CSharpRe2.pdb
+C:\Users\Dell\Desktop\programing\My-code\C# issam\CSharpRe2\obj\Debug\net6.0\CSharpRe2.genruntimeconfig.cache
+C:\Users\Dell\Desktop\programing\My-code\C# issam\CSharpRe2\obj\Debug\net6.0\ref\CSharpRe2.dll

@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\programing\My-code\3-C# issam\CSharp3\bin\Debug\net7.0\CSharp3.exe
+C:\Users\Dell\Desktop\programing\My-code\3-C# issam\CSharp3\bin\Debug\net7.0\CSharp3.deps.json
+C:\Users\Dell\Desktop\programing\My-code\3-C# issam\CSharp3\bin\Debug\net7.0\CSharp3.runtimeconfig.json
+C:\Users\Dell\Desktop\programing\My-code\3-C# issam\CSharp3\bin\Debug\net7.0\CSharp3.dll
+C:\Users\Dell\Desktop\programing\My-code\3-C# issam\CSharp3\bin\Debug\net7.0\CSharp3.pdb
+C:\Users\Dell\Desktop\programing\My-code\3-C# issam\CSharp3\obj\Debug\net7.0\CSharp3.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\programing\My-code\3-C# issam\CSharp3\obj\Debug\net7.0\CSharp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\programing\My-code\3-C# issam\CSharp3\obj\Debug\net7.0\CSharp3.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\programing\My-code\3-C# issam\CSharp3\obj\Debug\net7.0\CSharp3.AssemblyInfo.cs
+C:\Users\Dell\Desktop\programing\My-code\3-C# issam\CSharp3\obj\Debug\net7.0\CSharp3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\programing\My-code\3-C# issam\CSharp3\obj\Debug\net7.0\CSharp3.dll
+C:\Users\Dell\Desktop\programing\My-code\3-C# issam\CSharp3\obj\Debug\net7.0\refint\CSharp3.dll
+C:\Users\Dell\Desktop\programing\My-code\3-C# issam\CSharp3\obj\Debug\net7.0\CSharp3.pdb
+C:\Users\Dell\Desktop\programing\My-code\3-C# issam\CSharp3\obj\Debug\net7.0\CSharp3.genruntimeconfig.cache
+C:\Users\Dell\Desktop\programing\My-code\3-C# issam\CSharp3\obj\Debug\net7.0\ref\CSharp3.dll

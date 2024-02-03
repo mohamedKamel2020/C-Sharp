@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\programing\My-code\CSharpRe\bin\Debug\net6.0\CSharpRe.exe
+C:\Users\Dell\Desktop\programing\My-code\CSharpRe\bin\Debug\net6.0\CSharpRe.deps.json
+C:\Users\Dell\Desktop\programing\My-code\CSharpRe\bin\Debug\net6.0\CSharpRe.runtimeconfig.json
+C:\Users\Dell\Desktop\programing\My-code\CSharpRe\bin\Debug\net6.0\CSharpRe.dll
+C:\Users\Dell\Desktop\programing\My-code\CSharpRe\bin\Debug\net6.0\CSharpRe.pdb
+C:\Users\Dell\Desktop\programing\My-code\CSharpRe\obj\Debug\net6.0\CSharpRe.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\programing\My-code\CSharpRe\obj\Debug\net6.0\CSharpRe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\programing\My-code\CSharpRe\obj\Debug\net6.0\CSharpRe.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\programing\My-code\CSharpRe\obj\Debug\net6.0\CSharpRe.AssemblyInfo.cs
+C:\Users\Dell\Desktop\programing\My-code\CSharpRe\obj\Debug\net6.0\CSharpRe.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\programing\My-code\CSharpRe\obj\Debug\net6.0\CSharpRe.dll
+C:\Users\Dell\Desktop\programing\My-code\CSharpRe\obj\Debug\net6.0\refint\CSharpRe.dll
+C:\Users\Dell\Desktop\programing\My-code\CSharpRe\obj\Debug\net6.0\CSharpRe.pdb
+C:\Users\Dell\Desktop\programing\My-code\CSharpRe\obj\Debug\net6.0\CSharpRe.genruntimeconfig.cache
+C:\Users\Dell\Desktop\programing\My-code\CSharpRe\obj\Debug\net6.0\ref\CSharpRe.dll
