@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 04\Function\Function\bin\Debug\net7.0\Function.exe
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 04\Function\Function\bin\Debug\net7.0\Function.deps.json
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 04\Function\Function\bin\Debug\net7.0\Function.runtimeconfig.json
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 04\Function\Function\bin\Debug\net7.0\Function.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 04\Function\Function\bin\Debug\net7.0\Function.pdb
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 04\Function\Function\obj\Debug\net7.0\Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 04\Function\Function\obj\Debug\net7.0\Function.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 04\Function\Function\obj\Debug\net7.0\Function.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 04\Function\Function\obj\Debug\net7.0\Function.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 04\Function\Function\obj\Debug\net7.0\Function.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 04\Function\Function\obj\Debug\net7.0\refint\Function.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 04\Function\Function\obj\Debug\net7.0\Function.pdb
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 04\Function\Function\obj\Debug\net7.0\Function.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 04\Function\Function\obj\Debug\net7.0\ref\Function.dll
