@@ -1,0 +1,162 @@
+using System;
+using ClassLibrary1;
+namespace menu
+{
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] Menu = new string[] { "New", "Display", "Sort", "Exit" };
+
+            int light = 0 , x = 0;
+            bool exitflag = false;
+            emp[] arr = new emp[3];
+            for (int i = 0; i < 3; i++)
+            {
+                arr[i] = new emp();
+            }
+            do
+            {
+                for (int i = 0; i < Menu.Length; i++)
+                {
+                    if (i == light) Console.BackgroundColor = ConsoleColor.Blue;
+                    else Console.BackgroundColor = ConsoleColor.Black;
+                    Console.SetCursorPosition(30, 5 + 5 * i);
+                    Console.WriteLine(Menu[i]);
+                }
+                ConsoleKeyInfo k = Console.ReadKey();
+                switch (k.Key)
+                {
+                    case ConsoleKey.DownArrow:
+                        light++;
+                        if (light > 3) light = 0;
+                        break;
+                    case ConsoleKey.UpArrow:
+                        light--;
+                        if (light < 0) light = 3;
+                        break;
+                    case ConsoleKey.Enter:
+                        Console.BackgroundColor = ConsoleColor.Black;
+                        Console.Clear();
+                        switch (light)
+                        {
+                            case 0:
+                                if (x == 3) Console.WriteLine("Array is Full!");
+                                else
+                                {
+                                    inputs(arr[x]);
+                                    x++;
+                                }
+                                Console.ReadLine();
+                                break;
+                            case 1:
+                                display(arr , x);
+                                Console.WriteLine("\n");
+                                break;
+                            case 2:
+                                Array.Sort(arr);
+                                break;
+                            case 3:
+                                exitflag = true;
+                                break;
+                        }
+                        Console.BackgroundColor = ConsoleColor.Black;
+                        Console.Clear();
+                        break;
+                    case ConsoleKey.Escape:
+                        exitflag = true;
+                        Console.BackgroundColor = ConsoleColor.Black;
+                        Console.Clear();
+                        break;
+                }
+            }
+            while (exitflag != true);
+        }
+        static void inputs(emp e)
+        {
+            bool f = true;
+            string temp;
+            do
+            {
+                Console.WriteLine("Enter Employee Id");
+                temp = Console.ReadLine();
+                f = true;
+                try
+                {
+                    e.ID = int.Parse(temp);
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("invalid Id! \n try another Id");
+                    f = false;
+                }
+            } 
+            while (f == false);
+            do
+            {
+                Console.WriteLine("Enter Employee Name");
+                e.Name = Console.ReadLine();
+                f = true;
+                try
+                {
+                    e.Name = Console.ReadLine();
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("invalid Name! \n try again");
+                    f = false;
+                }
+            }
+            while (f == false);
+
+            do
+            {
+                Console.WriteLine("Enter Employee Age");
+                temp = Console.ReadLine();
+                f = true;
+                try
+                {
+                    e.age = int.Parse(temp);
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("invalid Age! \n try again");
+                    f = false;
+                }
+            }
+            while (f == false);
+
+            do
+            {
+                Console.WriteLine("Enter Employee Salary");
+                temp = Console.ReadLine();
+                f = true;
+                try
+                {
+                    e.Salary = int.Parse(temp);
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("invalid Salary! \n try again");
+                    f = false;
+                }
+            }
+            while (f == false);
+
+        }
+        static void display(emp[] arr , int x)
+        {
+            if (x == 0) Console.WriteLine("There is nothing to Display");
+            else
+            {
+                for (int i = 0; i < x; i++)
+                {
+                    Console.WriteLine(arr[i]);
+                } 
+                Console.ReadLine();
+            }
+            Console.WriteLine("\n");
+        }
+    }
+}

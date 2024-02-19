@@ -1,0 +1,67 @@
+ public class MyStack
+    {
+        int[] stk;
+        public int top;
+        int size;
+        public MyStack()
+        {
+            stk = new int[3];
+            size = 3;
+            top = 0;
+        }
+        public MyStack(int x)
+        {
+            stk = new int[x];
+            size = x;
+            top = 0;
+        }
+        public int this[int x]
+        {
+            set { }
+            get
+            {
+               return stk[x];  
+            }
+        }
+        public static MyStack operator +(MyStack s1, MyStack s2)
+        {
+            MyStack s3 = new MyStack(s1.top + s2.top);
+            int i;
+            for (i = 0; i < s1.top; i++)
+            {
+                s3.push(s1.stk[i]);
+            }
+            for (i = 0; i < s2.top; i++)
+            {
+                s3.push(s2.stk[i]);
+            }
+            return s3;
+        }
+        public int Size()
+        {
+            return size;
+        }
+        public void push(int x)
+        {
+            if (top == -1) top = 0;
+            if (top < size)
+            {
+                stk[top] = x;
+                top++;
+            }
+            else Console.WriteLine("the stack is full");
+        }
+        public int pop()
+        {
+            if (top == size) top--;
+            if (top >= 0)
+            {
+                int y = stk[top];
+                top--;
+                return y;
+            }
+            else return -1;
+
+        }
+
+    }

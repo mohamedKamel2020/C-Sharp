@@ -1,0 +1,179 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using ClassLibrary1;
+
+namespace menu
+{
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int light = 0;
+            bool exitflag = false;
+            List<emp> arr = new List<emp>();
+            string[] Menu = new string[] { "New", "Display", "Sort", "Exit" };
+
+            do
+            {
+                for (int i = 0; i < Menu.Length; i++)
+                {
+                    if (i == light) Console.BackgroundColor = ConsoleColor.Blue;
+                    else Console.BackgroundColor = ConsoleColor.Black;
+                    Console.SetCursorPosition(30, 5 + 5 * i);
+                    Console.WriteLine(Menu[i]);
+                }
+                ConsoleKeyInfo k = Console.ReadKey();
+                switch (k.Key)
+                {
+                    case ConsoleKey.DownArrow:
+                        light++;
+                        if (light > 3) light = 0;
+                        break;
+                    case ConsoleKey.UpArrow:
+                        light--;
+                        if (light < 0) light = 3;
+                        break;
+                    case ConsoleKey.Enter:
+                        Console.BackgroundColor = ConsoleColor.Black;
+                        Console.Clear();
+                        switch (light)
+                        {
+                            case 0:
+                                emp e = new emp();
+                                inputs(e);
+                                arr.Add(e);
+                                Console.ReadLine();
+                                Console.Clear();
+                                break;
+                            case 1:
+                                display(arr);
+                                Console.WriteLine("\n");
+                                break;
+                            case 2:
+                                Console.WriteLine("Enter (1) to Sort by Salary \nEnter (2) to Sort by Id \nEnter (3) to Sort by Age \nEnter (4) to Sort by Name");
+                                string s = Console.ReadLine();
+                                int x = int.Parse(s);
+                                switch (x)
+                                {
+                                    case 1:
+                                        salarysort sl = new salarysort();
+                                        arr.Sort(sl);
+                                        break;
+                                    case 2:
+                                        arr.Sort();
+                                        break;
+                                    case 3:
+                                        agesort ag = new agesort();
+                                        arr.Sort(ag);
+                                        break;
+                                    case 4:
+                                        namesort n = new namesort();
+                                        arr.Sort(n);
+                                        break;
+                                }
+                                Console.Clear();
+                                break;
+                            case 3:
+                                Console.BackgroundColor = ConsoleColor.Black;
+                                Console.Clear();
+                                break;
+                        }
+                        Console.Clear();
+                        break;
+                    case ConsoleKey.Escape:
+                        exitflag = true;
+                        Console.BackgroundColor = ConsoleColor.Black;
+                        Console.Clear();
+                        break;
+                        }
+                }
+                while (exitflag != true) ;
+        }
+        static void inputs(emp e)
+        {
+            bool f = true;
+            string temp;
+            do
+            {
+                Console.WriteLine("Enter Employee Id");
+                temp = Console.ReadLine();
+                f = true;
+                try
+                {
+                    e.ID = int.Parse(temp);
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("invalid Id! \n try another Id");
+                    f = false;
+                }
+            } 
+            while (f == false);
+            do
+            {
+                Console.WriteLine("Enter Employee Name");
+                f = true;
+                try
+                {
+                    e.Name = Console.ReadLine();
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("invalid Name! \n try again");
+                    f = false;
+                }
+            }
+            while (f == false);
+            do
+            {
+                Console.WriteLine("Enter Employee Age");
+                temp = Console.ReadLine();
+                f = true;
+                try
+                {
+                    e.age = int.Parse(temp);
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("invalid Age! \n try again");
+                    f = false;
+                }
+            }
+            while (f == false);
+            do
+            {
+                Console.WriteLine("Enter Employee Salary");
+                temp = Console.ReadLine();
+                f = true;
+                try
+                {
+                    e.Salary = int.Parse(temp);
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("invalid Salary! \n try again");
+                    f = false;
+                }
+            }
+            while (f == false);
+        }
+        static void display(List<emp> a)
+        {
+            if (a.Count == 0) Console.WriteLine("There is nothing to Display");
+            else
+            {
+                foreach (var item in a)
+                {
+                    Console.WriteLine(item);
+                } 
+                Console.ReadLine();
+            }
+            Console.WriteLine("\n");
+        }
+    }
+}

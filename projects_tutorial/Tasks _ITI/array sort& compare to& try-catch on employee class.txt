@@ -1,0 +1,214 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+namespace ConsoleApp1
+{
+
+    public class employee :IComparable
+    {
+
+        private string name;
+        private int id;
+        private double salary;
+
+        public employee()
+        {
+            name = "";
+            id = 0;
+            salary = 0.0;
+        }
+        public employee(string Name, int Id, double Salary)
+        {
+            name = Name;
+            id = Id;
+            salary = Salary;
+        }
+        public void set_name(string x)
+        {
+            name = x;
+        }
+        public string get_name()
+        {
+            return name;
+        }
+        public void set_id(int y)
+        {
+            id = y;
+        }
+        public int get_id()
+        {
+            return id;
+        }
+        public void set_salary(double z)
+        {
+            salary = z;
+        }
+        public double get_salary()
+        {
+            return salary;
+        }
+        public void display(string x, int y, double z)
+        {
+            Console.WriteLine("Name : {0}", x);
+            Console.WriteLine("ID : {0}", y);
+            Console.WriteLine("Salary : {0}", z);
+
+        }
+
+        public void inputData()
+        {
+            Console.WriteLine("Please enter Name of empolyee : ");
+            name = Console.ReadLine();
+            bool f = false;
+            do
+            {
+                try
+                {
+                    string check;
+                    Console.WriteLine("Please enter ID of empolyee : ");
+                    check = Console.ReadLine();
+                    id = int.Parse(check);
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("error in id ");
+                    f = true;
+                }
+               
+            } while (f);
+
+
+            do
+            {
+                try
+                {
+                    string check;
+                    Console.WriteLine("Please enter Salary of empolyee");
+                    check = Console.ReadLine();
+                    salary = double.Parse(check);
+                }
+                catch (Exception)
+                {
+
+                    Console.WriteLine("error in salary");
+                    f = true;
+                }
+            } while (f);
+
+
+
+
+        }
+        public int CompareTo(object obj)
+        {
+            return this.id.CompareTo((obj as employee).id);
+        }
+    }
+
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            short size = 2;
+            bool flag = false;
+            int heighlight = 0;
+            string[] menu = new string[] { "New Employee", "Display Data of Employee", "Sort", "Exit" };
+            //employee obj = new employee();
+            employee[] emp = new employee[size];
+
+            for(int i=0;i<size;i++)
+            {
+                emp[i] = new employee();
+            }
+
+            do
+            {
+                for (int i = 0; i < menu.Length; i++)
+                {
+                    if (i == heighlight)
+                    {
+                        Console.BackgroundColor = ConsoleColor.Red;
+                    }
+                    else
+                    {
+                        Console.BackgroundColor = ConsoleColor.Black;
+                    }
+
+                    Console.CursorVisible = false;
+                    Console.SetCursorPosition(30, 5 + 5 * i);
+                    Console.Write(menu[i]);
+                }
+
+                ConsoleKeyInfo k = Console.ReadKey();
+
+                switch (k.Key)
+                {
+                    case ConsoleKey.UpArrow:
+                        heighlight--;
+                        if (heighlight < 0) heighlight = 3;
+                        break;
+                    case ConsoleKey.DownArrow:
+                        heighlight++;
+                        if (heighlight > 3) heighlight = 0;
+                        break;
+                    case ConsoleKey.Enter:
+                        Console.BackgroundColor = ConsoleColor.Black;
+                        Console.Clear();
+
+                        switch (heighlight)
+                        {
+
+                            case 0:
+                                Console.BackgroundColor = ConsoleColor.Black;
+                                Console.Clear();
+
+                                for (int i = 0; i < size; ++i)
+                                {
+                                    emp[i].inputData();
+                                }
+
+                                Console.Clear();
+                                Console.Clear();
+                                Console.ReadLine();
+                                break;
+
+                            case 1:
+                                Console.BackgroundColor = ConsoleColor.Black;
+                                Console.Clear();
+
+
+                                for (int i = 0; i < size; ++i)
+                                {
+                                    emp[i].display(emp[i].get_name(), emp[i].get_id(), emp[i].get_salary());
+                                }
+
+                                
+                                Console.ReadLine();
+                                Console.Clear();
+                                break;
+
+                            case 2:
+                                Array.Sort(emp);
+
+                                break;
+                            case 3:
+
+                                flag = true;
+                                break;
+                        }
+                        break;
+
+
+                }
+            } while (flag != true);
+
+
+
+        }
+    }
+}

@@ -1,0 +1,71 @@
+interface Iconter<T>
+    {
+        int count { get; }
+        T Get(int index);
+    }
+    public class MyStack<T>:Iconter<T>
+    {
+        T [] stk;
+        public int top;
+        public int size;
+
+        public int count => throw new NotImplementedException();
+
+        public MyStack()
+        {
+            stk = new T[3];
+            size = 3;
+            top = 0;
+        }
+        public MyStack(int x)
+        {
+            stk = new T[x];
+            size = x;
+            top = 0;
+        }
+        public T this[int x]
+        {
+            set { }
+            get
+            {
+               return stk[x];  
+            }
+        }
+        //public static MyStack operator +(MyStack s1, MyStack s2)
+        //{
+        //    MyStack s3 = new MyStack(s1.top + s2.top);
+        //    int i;
+        //    for (i = 0; i < s1.top; i++)
+        //    {
+        //        s3.push(s1.stk[i]);
+        //    }
+        //    for (i = 0; i < s2.top; i++)
+        //    {
+        //        s3.push(s2.stk[i]);
+        //    }
+        //    return s3;
+        //}
+        public int Size()
+        {
+            return size;
+        }
+        public void push(T x)
+        {
+            if (top == -1) top = 0;
+            if (top < size)
+            {
+                stk[top] = x;
+                top++;
+            }
+            else Console.WriteLine("the stack is full");
+        }
+        public void pop()
+        {
+            if (top == 0) Console.WriteLine("Stack is empty!");
+            else top--;
+        }
+        public T Get(int index)
+        {
+            return stk[index];
+        }
+    }

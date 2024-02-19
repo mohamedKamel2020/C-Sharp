@@ -1,0 +1,88 @@
+ public class human
+    {
+        public int age;
+        public string name;
+
+        public human() { }
+        public human(int a, string s)
+        {
+            age = a;
+            name = s;
+        }
+    }
+    public class emp : human , IComparable
+    {
+        public int id;
+        public float salary;
+
+        public emp() { }
+        public emp(string n, int i, float s)
+        {
+            name = n;
+            id = i;
+            salary = s;
+        }
+        public string Name
+        {
+            set
+            {
+                name = value;
+            }
+            get { return name; }
+        }
+        public int ID
+        {
+            set
+            {
+                if (value > 0)
+                    id = value;
+                else
+                    Console.WriteLine("Wrong Id!");
+            }
+            get { return id; }
+        }
+        public float Salary
+        {
+            set
+            {
+                if (value > 0)
+                    salary = value;
+                else
+                    Console.WriteLine("wrong salary!");
+            }
+            get { return salary; }
+        }
+
+        public int CompareTo(object o)
+        {
+            return this.id.CompareTo((o as emp).id);
+        }
+
+        public override string ToString()
+        {
+            string s = $" Id = {id}\n Name = {name}\n Age = {age}\n Salary = {salary}";
+            return s;
+        }
+    }
+    public class agesort : IComparer<emp>
+    {
+        public int Compare(emp x, emp y)
+        {
+             return (x as emp).age.CompareTo((y as emp).age);
+        }
+    }
+    public class namesort : IComparer<emp>
+    {
+        public int Compare(emp x , emp y)
+        {
+            return (x as emp).name.CompareTo((y as emp).name);
+        }
+    }
+    public class salarysort : IComparer<emp>
+    {
+        public int Compare(emp x , emp y)
+        {
+            return (x as emp).salary.CompareTo((y as emp).salary);
+        }
+    }
+    public delegate bool sdelegate(int a, int b);

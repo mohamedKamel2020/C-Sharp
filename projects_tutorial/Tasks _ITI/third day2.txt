@@ -1,0 +1,31 @@
+using System;
+
+namespace FirstApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string temp;
+            int sum = 0;
+            float avg = 0;
+            Console.WriteLine("Enter the number of the elements");
+            temp = Console.ReadLine();
+            int num1 = int.Parse(temp);
+
+            int[] arr = new int[num1];
+            for (int i = 0; i < num1; i++)
+            {
+                temp = Console.ReadLine();
+                arr[i] = int.Parse(temp);
+            }
+            for (int j = 0; j < num1; j++)
+            {
+                sum = sum + arr[j];
+            }
+            avg = sum / (num1 *1.0f);
+
+            Console.WriteLine("sum = {0}  \t avg = {1}",sum , avg);
+        }
+    }
+}

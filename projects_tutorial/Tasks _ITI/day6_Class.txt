@@ -1,0 +1,55 @@
+public class geoshape
+    {
+        public int dim1;
+        public int dim2;
+        public geoshape() { }
+        public geoshape(int d1)
+        {
+            dim1 = dim2 = d1;
+        }
+        public geoshape(int d1 , int d2)
+        {
+            dim1 = d1;
+            dim2 = d2;
+        }
+        public virtual float calcarea()
+        {
+            return 0;
+        }
+    }
+    public class circle:geoshape
+    {
+        public circle(int d)
+        {
+            dim1 = dim2 = d;
+        }
+        float pi = 3.14f;
+        public override float calcarea()
+        {
+            return dim1 * dim2 * pi ;
+        }
+    }
+    public class triangle : geoshape
+    {
+        public triangle(int x , int y)
+        {
+            dim1 = x;
+            dim2 = y;
+        }
+        public override float calcarea()
+        {
+            return dim1 * dim2 * 0.5f;
+        }
+    }
+    public class rectangle : geoshape
+    {
+        public rectangle(int x, int y)
+        {
+            dim1 = x;
+            dim2 = y;
+        }
+        public override float calcarea()
+        {
+            return dim1 * dim2;
+        }
+    }

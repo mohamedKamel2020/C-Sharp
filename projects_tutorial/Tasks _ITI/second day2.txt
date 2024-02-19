@@ -1,0 +1,43 @@
+using System;
+
+namespace FirstApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int summ;
+            float avge;
+            string temp;
+            int result=0;
+            Console.WriteLine("Enter the 1st number");
+            temp = Console.ReadLine();
+            int num1 = int.Parse(temp);
+
+            Console.WriteLine("Enter the 2nd number");
+            temp = Console.ReadLine();
+            int num2 = int.Parse(temp);
+
+            Console.WriteLine("Enter the operation");
+            temp = Console.ReadLine();
+            char ope = char.Parse(temp);
+
+            switch (ope)
+            {
+                case '*':
+                    result = num1 * num2;
+                    break;
+                case '+':
+                    result = num1 + num2;
+                    break;
+                case '-':
+                    result = num1 - num2;
+                    break;
+                case '/':
+                    result = num1 / num2;
+                    break;
+            }
+            Console.WriteLine("result = {0}", result);
+        }
+    }
+}

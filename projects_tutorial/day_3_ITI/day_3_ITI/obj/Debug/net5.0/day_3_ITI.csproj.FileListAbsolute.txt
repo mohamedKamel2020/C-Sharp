@@ -1,0 +1,16 @@
+D:\E-Learning\Mohamed\C #\day_3_ITI\day_3_ITI\bin\Debug\net5.0\day_3_ITI.exe
+D:\E-Learning\Mohamed\C #\day_3_ITI\day_3_ITI\bin\Debug\net5.0\day_3_ITI.deps.json
+D:\E-Learning\Mohamed\C #\day_3_ITI\day_3_ITI\bin\Debug\net5.0\day_3_ITI.runtimeconfig.json
+D:\E-Learning\Mohamed\C #\day_3_ITI\day_3_ITI\bin\Debug\net5.0\day_3_ITI.runtimeconfig.dev.json
+D:\E-Learning\Mohamed\C #\day_3_ITI\day_3_ITI\bin\Debug\net5.0\day_3_ITI.dll
+D:\E-Learning\Mohamed\C #\day_3_ITI\day_3_ITI\bin\Debug\net5.0\ref\day_3_ITI.dll
+D:\E-Learning\Mohamed\C #\day_3_ITI\day_3_ITI\bin\Debug\net5.0\day_3_ITI.pdb
+D:\E-Learning\Mohamed\C #\day_3_ITI\day_3_ITI\obj\Debug\net5.0\day_3_ITI.csprojAssemblyReference.cache
+D:\E-Learning\Mohamed\C #\day_3_ITI\day_3_ITI\obj\Debug\net5.0\day_3_ITI.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Learning\Mohamed\C #\day_3_ITI\day_3_ITI\obj\Debug\net5.0\day_3_ITI.AssemblyInfoInputs.cache
+D:\E-Learning\Mohamed\C #\day_3_ITI\day_3_ITI\obj\Debug\net5.0\day_3_ITI.AssemblyInfo.cs
+D:\E-Learning\Mohamed\C #\day_3_ITI\day_3_ITI\obj\Debug\net5.0\day_3_ITI.csproj.CoreCompileInputs.cache
+D:\E-Learning\Mohamed\C #\day_3_ITI\day_3_ITI\obj\Debug\net5.0\day_3_ITI.dll
+D:\E-Learning\Mohamed\C #\day_3_ITI\day_3_ITI\obj\Debug\net5.0\ref\day_3_ITI.dll
+D:\E-Learning\Mohamed\C #\day_3_ITI\day_3_ITI\obj\Debug\net5.0\day_3_ITI.pdb
+D:\E-Learning\Mohamed\C #\day_3_ITI\day_3_ITI\obj\Debug\net5.0\day_3_ITI.genruntimeconfig.cache

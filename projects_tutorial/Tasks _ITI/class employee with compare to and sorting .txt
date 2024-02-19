@@ -1,0 +1,340 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp7
+{
+
+
+    class human
+    {
+
+        public string Name;
+        public int Age;
+        public human()
+        {
+            Name = " ";
+            Age = 0;
+        }
+        public human(string n, int a)
+        {
+            Name = n;
+            Age = a;
+        }
+        public string name
+        {
+            get;
+            set;
+        }
+        public int age
+        {
+            get
+            {
+                return Age;
+            }
+            set
+            {
+                if (value > 0)
+                {
+                    Age = value;
+                }
+                else Console.WriteLine("ERROR");
+
+            }
+        }
+        public override String ToString()
+        {
+            string s = $"Name={Name}\n Age={Age}";
+            return s;
+        }
+
+    }
+    public class AGEcompare : IComparer
+    {
+        public int Compare(object x, object y)
+        {
+            return (x as Empolyee).Age.CompareTo((y as Empolyee).Age);
+        }
+    }
+    public class IDcompare : IComparer
+    {
+        public int Compare(object x, object y)
+        {
+            return (x as Empolyee).ID.CompareTo((y as Empolyee).ID);
+        }
+    }
+    public class Salarycompare : IComparer
+    {
+        public int Compare(object x, object y)
+        {
+            return (x as Empolyee).Salary.CompareTo((y as Empolyee).Salary);
+        }
+    }
+    public class Namecompare : IComparer
+    {
+        public int Compare(object x, object y)
+        {
+            return (x as Empolyee).Name.CompareTo((y as Empolyee).Name);
+        }
+    }
+    class Empolyee : human, IComparable
+    {
+
+        public int ID;
+        public double Salary;
+        public Empolyee() : base()
+        {
+            Name = " ";
+            Age = 0;
+            ID = 0;
+            Salary = 0.00;
+        }
+        public Empolyee(int id, double salary, string n, int a) : base(n, a)
+        {
+            Name = n;
+            Age = a;
+            ID = id;
+            Salary = salary;
+        }
+        public int CompareTo(object b)
+        {
+            return this.Salary.CompareTo((b as Empolyee).Salary);
+        }
+
+        public int id
+        {
+            get
+            {
+                return ID;
+            }
+            set
+            {
+                if (value > 0)
+                    ID = value;
+                else Console.WriteLine("Invalid input");
+
+            }
+        }
+        public double salary
+        {
+            set
+            {
+                if (value > 0) Salary = value;
+                else Console.WriteLine("Invalid input");
+            }
+            get
+            {
+                return Salary;
+            }
+
+        }
+        public override string ToString()
+        {
+            string s = base.ToString() + $"\n ID={ID}\n Salary={Salary}  ";
+            return s;
+        }
+        public void inputData()
+        {
+            string check;
+            Console.WriteLine("Please enter Name of empolyee : ");
+            Name = Console.ReadLine();
+            bool f = false;
+            do
+            {
+                try
+                {
+                    Console.WriteLine("Please enter Age of empolyee : ");
+                    age = int.Parse(Console.ReadLine());
+                }
+                catch
+                {
+                    Console.WriteLine("Again");
+                    f = true;
+
+                }
+            } while (f);
+            do
+            {
+                try
+                {
+                    Console.WriteLine("Please enter ID of empolyee : ");
+                    check = Console.ReadLine();
+                    int.TryParse(check, out ID);
+                }
+                catch
+                {
+                    Console.WriteLine("again");
+                    f = true;
+                }
+            } while (f);
+            do
+            {
+                try
+                {
+                    Console.WriteLine("Please enter Salary of empolyee");
+                    check = Console.ReadLine();
+                    double.TryParse(check, out Salary);
+                }
+                catch
+                {
+                    Console.WriteLine("again");
+                    f = true;
+                }
+            } while (f);
+        }
+        public void Display()
+        {
+            Console.WriteLine("Name of Empolyee :{0}", name);
+            Console.WriteLine("ID of Empolyee :{0}", ID);
+            Console.WriteLine("Salary of Empolyee :{0}", Salary);
+        }
+
+    }
+    class Program
+    {
+
+
+        static void Main(string[] args)
+        {
+
+            short size = 2;
+            bool flag = false;
+            short highlight = 0;
+            int counter = 0;
+            string[] menu = new string[] { "New", "Display", "Sort", "Exit" };
+            Empolyee[] emp = new Empolyee[size];
+            IDcompare d = new IDcompare();
+            Salarycompare s = new Salarycompare();
+            Namecompare n = new Namecompare();
+            AGEcompare a = new AGEcompare();
+            for (int i = 0; i < size; i++) { emp[i] = new Empolyee(); }
+            do
+            {
+
+                Console.CursorVisible = false;
+                for (int i = 0; i <= 3; i++)
+                {
+                    if (i == highlight)
+                    {
+                        Console.BackgroundColor = ConsoleColor.Blue;
+                    }
+                    else Console.BackgroundColor = ConsoleColor.Black;
+                    Console.SetCursorPosition(30, 5 + 5 * i);
+                    Console.WriteLine(menu[i]);
+                }
+                ConsoleKeyInfo k = Console.ReadKey();
+                switch (k.Key)
+                {
+                    case ConsoleKey.UpArrow:
+                        highlight--;
+                        if (highlight < 0) highlight = 3;
+                        break;
+                    case ConsoleKey.DownArrow:
+                        highlight++;
+                        if (highlight > 3)
+                            highlight = 0;
+                        break;
+                    case ConsoleKey.Enter:
+                        Console.BackgroundColor = ConsoleColor.Black;
+                        Console.Clear();
+
+
+                        switch (highlight)
+                        {
+                            case 0:
+
+                                //for (int i = 0; i < size; ++i)
+                                //{
+
+                                if (counter<2) 
+                                {
+                                    emp[counter].inputData();
+                                    counter++;
+                                }
+                                    
+                                //}
+                                Console.ReadLine();
+                                break;
+                            case 1:
+
+                                for (int i = 0; i < size; ++i)
+                                {
+                                    Console.WriteLine(emp[i]);
+                                }
+                                Console.ReadLine();
+                                break;
+                            case 2:
+                                int Highlight2 = 0;
+                                bool flag2 = true;
+                                string[] menu1 = new string[] {  "1- Sort ID", "2- Sort Salary", "3- Sort Name ", "4-Sort Age" };
+                                
+                                do
+                                {
+                                    for (int i = 0; i < 4; i++)
+                                    {
+                                        if (i == Highlight2)
+                                        {
+                                            Console.BackgroundColor = ConsoleColor.Red;
+                                        }
+                                        else { Console.BackgroundColor = ConsoleColor.Blue; }
+                                        
+                                        Console.SetCursorPosition(30, 5 + 5 * i);
+                                        Console.WriteLine(menu1[i]);
+                                    }
+
+                                    ConsoleKeyInfo g = Console.ReadKey();
+                                    switch (g.Key)
+                                    {
+                                        case ConsoleKey.UpArrow:
+                                            highlight--;
+                                            if (Highlight2 < 0) Highlight2= 3;
+                                            break;
+                                        case ConsoleKey.DownArrow:
+                                            highlight++;
+                                            if (Highlight2 > 3)
+                                                Highlight2 = 0;
+                                            break;
+
+                                        case ConsoleKey.Enter:
+
+
+                                            Console.BackgroundColor = ConsoleColor.Black;
+                                            Console.Clear();
+
+                                            switch (Highlight2)
+                                            {
+                                                case 1:
+                                                    Array.Sort(emp, d);
+                                                    break;
+                                                case 2:
+                                                    Array.Sort(emp, s);
+                                                    break;
+                                                case 3:
+                                                    Array.Sort(emp, n);
+                                                    break;
+                                                case 4:
+                                                    Array.Sort(emp, a);
+                                                    break;
+                                            }
+                                            flag2 = false;
+                                            break;
+                                    }
+                                } while (flag2);
+                                break;
+                            case 3:
+                                flag = true;
+                                break;
+                        }
+                        break;
+                }
+                Console.BackgroundColor = ConsoleColor.Black;
+                Console.Clear();
+            } while (flag == false);
+            Console.ReadLine();
+        }
+    }
+}
+

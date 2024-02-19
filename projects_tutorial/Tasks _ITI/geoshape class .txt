@@ -1,0 +1,127 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+namespace ConsoleApp1
+{
+
+    class geoshape
+    {
+        public float dim1;
+        public float dim2;
+        public geoshape()
+        {
+            dim1 = 0f;
+            dim2 = 0f;
+        }
+
+        public geoshape(float d1, float d2)
+        {
+            dim1 = d1;
+            dim2 = d2;
+        }
+        public geoshape(float d1)
+        {
+            dim1 = d1;
+            dim2 = 0;
+        }
+        public virtual float Calcarea()
+        {
+            float Area = 0;
+            return Area;
+        }
+
+
+
+    }
+
+
+    class Circle : geoshape
+    {
+        const float pi = 3.14f;
+        public Circle(float d1) : base(d1)
+        {
+            dim1 = d1;
+            dim2 = 0;
+        }
+        public override float Calcarea()
+        {
+            float Area = pi * dim1 * dim1;
+            return Area;
+        }
+
+    }
+
+    class Triangle : geoshape
+    {
+        public Triangle()
+        {
+            dim1 = 0f;
+            dim2 = 0f;
+        }
+        public Triangle(float d1, float d2) : base(d1, d2)
+        {
+            dim1 = d1;
+            dim2 = d2;
+        }
+        public override float Calcarea()
+        {
+            float Area = 0.5f * dim2 * dim1;
+            return Area;
+        }
+
+    }
+
+
+    class Rectangle : geoshape
+    {
+        public Rectangle(float d1, float d2) : base(d1, d2)
+        {
+            dim1 = d1;
+            dim2 = d2;
+        }
+        public override float Calcarea()
+        {
+            float Area = dim2 * dim1;
+            return Area;
+        }
+
+
+    }
+
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+
+            geoshape[] s1 = new geoshape[3];
+            Rectangle r = new Rectangle(2, 2);
+            Circle r1 = new Circle(2);
+            Triangle r2 = new Triangle(2, 2);
+            s1[0] = r;
+            s1[1] = r1;
+            s1[2] = r2;
+
+            Console.WriteLine(r.Calcarea());
+            Console.WriteLine(r1.Calcarea());
+            Console.WriteLine(r2.Calcarea());
+            float Sum = 0;
+            for (int i = 0; i < s1.Length; i++)
+            {
+                Sum += s1[i].Calcarea();
+            }
+            Console.WriteLine(Sum);
+            Console.ReadLine();
+        }
+    }
+
+
+
+
+
+}
+

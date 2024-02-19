@@ -1,0 +1,41 @@
+using System;
+
+namespace ConsoleApp3
+{
+    class First
+    {
+        class complex
+        {
+            public float real;
+            public float img;
+            public static complex operator + (complex c1, complex c2)
+            {
+                complex sum = new complex();
+                sum.real = c1.real + c2.real;
+                sum.img = c1.img + c2.img;
+                return sum;
+            }
+            public static complex operator -(complex c1, complex c2)
+            {
+                complex sub = new complex();
+                sub.real = c1.real - c2.real;
+                sub.img = c1.img - c2.img;
+                return sub;
+            }
+        }
+        static void Main(string[] args)
+        {
+            complex c1 = new complex();
+            c1.real = 150;
+            c1.img = 30;
+            complex c2 = new complex();
+            c2.real = 100;
+            c2.img = 20;
+            complex c3 = c1 + c2;
+            complex c4 = c1 - c2;
+            Console.WriteLine("the sum of real numbers is {0} \t  img numbers is {1} ", c3.real, c3.img);
+            Console.WriteLine("the sub of real numbers is {0} \t  img numbers is {1} ", c4.real, c4.img);
+
+        }
+    }
+}

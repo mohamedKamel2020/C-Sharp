@@ -1,0 +1,21 @@
+using System;
+using ClassLibrary1;
+
+namespace ConsoleApp3
+{
+    class First
+    {
+        static void Main(string[] args)
+        {
+            MyStack st = new MyStack();
+            st.push(3);
+            st.push(2);
+            st.push(1);
+            MyStack st2 = new MyStack();
+            st2.push(4);
+            st2.push(5);
+            st2.push(6);
+            var s = st + st2;
+        }
+    }
+}

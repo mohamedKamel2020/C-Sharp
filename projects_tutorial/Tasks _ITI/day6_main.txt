@@ -1,0 +1,22 @@
+using System;
+using ClassLibrary1;
+
+namespace ConsoleApp3
+{
+    class First
+    {
+        static void Main(string[] args)
+        {
+            geoshape[] arr = new geoshape[3];
+            arr[0] = new circle(10);
+            arr[1] = new triangle(4, 2);
+            arr[2] = new rectangle(4, 4);
+            float sum = 0;
+            for (int i = 0; i < 3; i++)
+            {
+                sum += arr[i].calcarea();
+            }
+
+        }
+    }
+}

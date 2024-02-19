@@ -1,0 +1,83 @@
+ public class human
+    {
+        public int age;
+        public string name;
+
+        public human() { }
+        public human(int a, string s)
+        {
+            age = a;
+            name = s;
+        }
+    }
+    public class emp : human , IComparable
+    {
+        public int id;
+        public float salary;
+
+        public emp() { }
+        public emp(string n, int i, float s)
+        {
+            name = n;
+            id = i;
+            salary = s;
+        }
+        public string Name
+        {
+            set
+            {
+                name = value;
+            }
+            get { return name; }
+        }
+        public int ID
+        {
+            set
+            {
+                if (value > 0)
+                    id = value;
+                else
+                    Console.WriteLine("Wrong Id!");
+            }
+            get { return id; }
+        }
+        public float Salary
+        {
+            set
+            {
+                if (value > 0)
+                    salary = value;
+                else
+                    Console.WriteLine("wrong salary!");
+            }
+            get { return salary; }
+        }
+
+        public int CompareTo(object o)
+        {
+            return this.id.CompareTo((o as emp).id);
+        }
+
+        public override string ToString()
+        {
+            string s = $" Id = {id}\n Name = {name}\n Age = {age}\n Salary = {salary}";
+            return s;
+        }
+    }
+    public class SortBySalary : IComparer
+    {
+        public int Compare(object a, object b)
+        {
+            emp e1 = (emp)a;
+            emp e2 = (emp)b;
+            if (e1.salary == e2.salary)
+                return 0;
+            else
+            {
+                if (e1.salary < e2.salary)
+                    return -1;
+                else
+                    return 1;
+            }
+        }
+    }

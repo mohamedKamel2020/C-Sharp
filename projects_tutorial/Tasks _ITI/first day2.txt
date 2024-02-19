@@ -1,0 +1,30 @@
+using System;
+
+namespace FirstApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int sum;
+            float avg;
+            string temp;
+
+            Console.WriteLine("Enter the 1st number");
+            temp = Console.ReadLine();
+            int num1 = int.Parse(temp);
+
+            Console.WriteLine("Enter the 2nd number");
+            temp = Console.ReadLine();
+            int num2 = int.Parse(temp);
+
+            sum = num1 + num2;
+
+            avg = sum / 2.0f;
+            Console.WriteLine("sum={0} \t avarage={1}", sum, avg);
+            if (num1 > num2) Console.WriteLine("Number 1 Is Greater");
+            else if(num2 > num1) Console.WriteLine("Number 2 Is Greater");
+            else Console.WriteLine("2 Numbers are equal");
+        }
+    }
+}
