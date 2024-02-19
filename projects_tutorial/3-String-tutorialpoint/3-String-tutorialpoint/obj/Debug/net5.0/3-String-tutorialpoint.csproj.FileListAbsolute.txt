@@ -1,0 +1,16 @@
+D:\E-Learning\Mohamed\C #\tutorialpoint\3-String-tutorialpoint\3-String-tutorialpoint\bin\Debug\net5.0\3-String-tutorialpoint.exe
+D:\E-Learning\Mohamed\C #\tutorialpoint\3-String-tutorialpoint\3-String-tutorialpoint\bin\Debug\net5.0\3-String-tutorialpoint.deps.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\3-String-tutorialpoint\3-String-tutorialpoint\bin\Debug\net5.0\3-String-tutorialpoint.runtimeconfig.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\3-String-tutorialpoint\3-String-tutorialpoint\bin\Debug\net5.0\3-String-tutorialpoint.runtimeconfig.dev.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\3-String-tutorialpoint\3-String-tutorialpoint\bin\Debug\net5.0\3-String-tutorialpoint.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\3-String-tutorialpoint\3-String-tutorialpoint\bin\Debug\net5.0\ref\3-String-tutorialpoint.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\3-String-tutorialpoint\3-String-tutorialpoint\bin\Debug\net5.0\3-String-tutorialpoint.pdb
+D:\E-Learning\Mohamed\C #\tutorialpoint\3-String-tutorialpoint\3-String-tutorialpoint\obj\Debug\net5.0\3-String-tutorialpoint.csprojAssemblyReference.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\3-String-tutorialpoint\3-String-tutorialpoint\obj\Debug\net5.0\3-String-tutorialpoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Learning\Mohamed\C #\tutorialpoint\3-String-tutorialpoint\3-String-tutorialpoint\obj\Debug\net5.0\3-String-tutorialpoint.AssemblyInfoInputs.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\3-String-tutorialpoint\3-String-tutorialpoint\obj\Debug\net5.0\3-String-tutorialpoint.AssemblyInfo.cs
+D:\E-Learning\Mohamed\C #\tutorialpoint\3-String-tutorialpoint\3-String-tutorialpoint\obj\Debug\net5.0\3-String-tutorialpoint.csproj.CoreCompileInputs.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\3-String-tutorialpoint\3-String-tutorialpoint\obj\Debug\net5.0\3-String-tutorialpoint.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\3-String-tutorialpoint\3-String-tutorialpoint\obj\Debug\net5.0\ref\3-String-tutorialpoint.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\3-String-tutorialpoint\3-String-tutorialpoint\obj\Debug\net5.0\3-String-tutorialpoint.pdb
+D:\E-Learning\Mohamed\C #\tutorialpoint\3-String-tutorialpoint\3-String-tutorialpoint\obj\Debug\net5.0\3-String-tutorialpoint.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\E-Learning\Mohamed\C #\tutorialpoint\12-structure_tutorial\12-structure_tutorial\bin\Debug\net5.0\12-structure_tutorial.exe
+D:\E-Learning\Mohamed\C #\tutorialpoint\12-structure_tutorial\12-structure_tutorial\bin\Debug\net5.0\12-structure_tutorial.deps.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\12-structure_tutorial\12-structure_tutorial\bin\Debug\net5.0\12-structure_tutorial.runtimeconfig.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\12-structure_tutorial\12-structure_tutorial\bin\Debug\net5.0\12-structure_tutorial.runtimeconfig.dev.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\12-structure_tutorial\12-structure_tutorial\bin\Debug\net5.0\12-structure_tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\12-structure_tutorial\12-structure_tutorial\bin\Debug\net5.0\ref\12-structure_tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\12-structure_tutorial\12-structure_tutorial\bin\Debug\net5.0\12-structure_tutorial.pdb
+D:\E-Learning\Mohamed\C #\tutorialpoint\12-structure_tutorial\12-structure_tutorial\obj\Debug\net5.0\12-structure_tutorial.csprojAssemblyReference.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\12-structure_tutorial\12-structure_tutorial\obj\Debug\net5.0\12-structure_tutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Learning\Mohamed\C #\tutorialpoint\12-structure_tutorial\12-structure_tutorial\obj\Debug\net5.0\12-structure_tutorial.AssemblyInfoInputs.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\12-structure_tutorial\12-structure_tutorial\obj\Debug\net5.0\12-structure_tutorial.AssemblyInfo.cs
+D:\E-Learning\Mohamed\C #\tutorialpoint\12-structure_tutorial\12-structure_tutorial\obj\Debug\net5.0\12-structure_tutorial.csproj.CoreCompileInputs.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\12-structure_tutorial\12-structure_tutorial\obj\Debug\net5.0\12-structure_tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\12-structure_tutorial\12-structure_tutorial\obj\Debug\net5.0\ref\12-structure_tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\12-structure_tutorial\12-structure_tutorial\obj\Debug\net5.0\12-structure_tutorial.pdb
+D:\E-Learning\Mohamed\C #\tutorialpoint\12-structure_tutorial\12-structure_tutorial\obj\Debug\net5.0\12-structure_tutorial.genruntimeconfig.cache

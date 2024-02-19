@@ -1,0 +1,16 @@
+D:\E-Learning\Mohamed\C #\tutorialpoint\10-Method_tutorialpoint\10-Method_tutorialpoint\bin\Debug\net5.0\10-Method_tutorialpoint.exe
+D:\E-Learning\Mohamed\C #\tutorialpoint\10-Method_tutorialpoint\10-Method_tutorialpoint\bin\Debug\net5.0\10-Method_tutorialpoint.deps.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\10-Method_tutorialpoint\10-Method_tutorialpoint\bin\Debug\net5.0\10-Method_tutorialpoint.runtimeconfig.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\10-Method_tutorialpoint\10-Method_tutorialpoint\bin\Debug\net5.0\10-Method_tutorialpoint.runtimeconfig.dev.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\10-Method_tutorialpoint\10-Method_tutorialpoint\bin\Debug\net5.0\10-Method_tutorialpoint.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\10-Method_tutorialpoint\10-Method_tutorialpoint\bin\Debug\net5.0\ref\10-Method_tutorialpoint.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\10-Method_tutorialpoint\10-Method_tutorialpoint\bin\Debug\net5.0\10-Method_tutorialpoint.pdb
+D:\E-Learning\Mohamed\C #\tutorialpoint\10-Method_tutorialpoint\10-Method_tutorialpoint\obj\Debug\net5.0\10-Method_tutorialpoint.csprojAssemblyReference.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\10-Method_tutorialpoint\10-Method_tutorialpoint\obj\Debug\net5.0\10-Method_tutorialpoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Learning\Mohamed\C #\tutorialpoint\10-Method_tutorialpoint\10-Method_tutorialpoint\obj\Debug\net5.0\10-Method_tutorialpoint.AssemblyInfoInputs.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\10-Method_tutorialpoint\10-Method_tutorialpoint\obj\Debug\net5.0\10-Method_tutorialpoint.AssemblyInfo.cs
+D:\E-Learning\Mohamed\C #\tutorialpoint\10-Method_tutorialpoint\10-Method_tutorialpoint\obj\Debug\net5.0\10-Method_tutorialpoint.csproj.CoreCompileInputs.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\10-Method_tutorialpoint\10-Method_tutorialpoint\obj\Debug\net5.0\10-Method_tutorialpoint.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\10-Method_tutorialpoint\10-Method_tutorialpoint\obj\Debug\net5.0\ref\10-Method_tutorialpoint.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\10-Method_tutorialpoint\10-Method_tutorialpoint\obj\Debug\net5.0\10-Method_tutorialpoint.pdb
+D:\E-Learning\Mohamed\C #\tutorialpoint\10-Method_tutorialpoint\10-Method_tutorialpoint\obj\Debug\net5.0\10-Method_tutorialpoint.genruntimeconfig.cache

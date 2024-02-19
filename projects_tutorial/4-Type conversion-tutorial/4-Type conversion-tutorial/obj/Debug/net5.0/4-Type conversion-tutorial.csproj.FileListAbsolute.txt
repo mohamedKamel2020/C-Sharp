@@ -1,0 +1,16 @@
+D:\E-Learning\Mohamed\C #\tutorialpoint\4-Type conversion-tutorial\4-Type conversion-tutorial\bin\Debug\net5.0\4-Type conversion-tutorial.exe
+D:\E-Learning\Mohamed\C #\tutorialpoint\4-Type conversion-tutorial\4-Type conversion-tutorial\bin\Debug\net5.0\4-Type conversion-tutorial.deps.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\4-Type conversion-tutorial\4-Type conversion-tutorial\bin\Debug\net5.0\4-Type conversion-tutorial.runtimeconfig.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\4-Type conversion-tutorial\4-Type conversion-tutorial\bin\Debug\net5.0\4-Type conversion-tutorial.runtimeconfig.dev.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\4-Type conversion-tutorial\4-Type conversion-tutorial\bin\Debug\net5.0\4-Type conversion-tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\4-Type conversion-tutorial\4-Type conversion-tutorial\bin\Debug\net5.0\ref\4-Type conversion-tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\4-Type conversion-tutorial\4-Type conversion-tutorial\bin\Debug\net5.0\4-Type conversion-tutorial.pdb
+D:\E-Learning\Mohamed\C #\tutorialpoint\4-Type conversion-tutorial\4-Type conversion-tutorial\obj\Debug\net5.0\4-Type conversion-tutorial.csprojAssemblyReference.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\4-Type conversion-tutorial\4-Type conversion-tutorial\obj\Debug\net5.0\4-Type conversion-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Learning\Mohamed\C #\tutorialpoint\4-Type conversion-tutorial\4-Type conversion-tutorial\obj\Debug\net5.0\4-Type conversion-tutorial.AssemblyInfoInputs.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\4-Type conversion-tutorial\4-Type conversion-tutorial\obj\Debug\net5.0\4-Type conversion-tutorial.AssemblyInfo.cs
+D:\E-Learning\Mohamed\C #\tutorialpoint\4-Type conversion-tutorial\4-Type conversion-tutorial\obj\Debug\net5.0\4-Type conversion-tutorial.csproj.CoreCompileInputs.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\4-Type conversion-tutorial\4-Type conversion-tutorial\obj\Debug\net5.0\4-Type conversion-tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\4-Type conversion-tutorial\4-Type conversion-tutorial\obj\Debug\net5.0\ref\4-Type conversion-tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\4-Type conversion-tutorial\4-Type conversion-tutorial\obj\Debug\net5.0\4-Type conversion-tutorial.pdb
+D:\E-Learning\Mohamed\C #\tutorialpoint\4-Type conversion-tutorial\4-Type conversion-tutorial\obj\Debug\net5.0\4-Type conversion-tutorial.genruntimeconfig.cache

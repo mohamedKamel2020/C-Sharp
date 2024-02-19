@@ -1,0 +1,16 @@
+D:\E-Learning\Mohamed\C #\tutorialpoint\15-Inheritance_tutorial\15-Inheritance_tutorial\bin\Debug\net5.0\15-Inheritance_tutorial.exe
+D:\E-Learning\Mohamed\C #\tutorialpoint\15-Inheritance_tutorial\15-Inheritance_tutorial\bin\Debug\net5.0\15-Inheritance_tutorial.deps.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\15-Inheritance_tutorial\15-Inheritance_tutorial\bin\Debug\net5.0\15-Inheritance_tutorial.runtimeconfig.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\15-Inheritance_tutorial\15-Inheritance_tutorial\bin\Debug\net5.0\15-Inheritance_tutorial.runtimeconfig.dev.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\15-Inheritance_tutorial\15-Inheritance_tutorial\bin\Debug\net5.0\15-Inheritance_tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\15-Inheritance_tutorial\15-Inheritance_tutorial\bin\Debug\net5.0\ref\15-Inheritance_tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\15-Inheritance_tutorial\15-Inheritance_tutorial\bin\Debug\net5.0\15-Inheritance_tutorial.pdb
+D:\E-Learning\Mohamed\C #\tutorialpoint\15-Inheritance_tutorial\15-Inheritance_tutorial\obj\Debug\net5.0\15-Inheritance_tutorial.csprojAssemblyReference.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\15-Inheritance_tutorial\15-Inheritance_tutorial\obj\Debug\net5.0\15-Inheritance_tutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Learning\Mohamed\C #\tutorialpoint\15-Inheritance_tutorial\15-Inheritance_tutorial\obj\Debug\net5.0\15-Inheritance_tutorial.AssemblyInfoInputs.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\15-Inheritance_tutorial\15-Inheritance_tutorial\obj\Debug\net5.0\15-Inheritance_tutorial.AssemblyInfo.cs
+D:\E-Learning\Mohamed\C #\tutorialpoint\15-Inheritance_tutorial\15-Inheritance_tutorial\obj\Debug\net5.0\15-Inheritance_tutorial.csproj.CoreCompileInputs.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\15-Inheritance_tutorial\15-Inheritance_tutorial\obj\Debug\net5.0\15-Inheritance_tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\15-Inheritance_tutorial\15-Inheritance_tutorial\obj\Debug\net5.0\ref\15-Inheritance_tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\15-Inheritance_tutorial\15-Inheritance_tutorial\obj\Debug\net5.0\15-Inheritance_tutorial.pdb
+D:\E-Learning\Mohamed\C #\tutorialpoint\15-Inheritance_tutorial\15-Inheritance_tutorial\obj\Debug\net5.0\15-Inheritance_tutorial.genruntimeconfig.cache

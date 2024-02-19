@@ -1,0 +1,16 @@
+D:\E-Learning\Mohamed\C #\tutorialpoint\13-enum_tutorail\13-enum_tutorail\bin\Debug\net5.0\13-enum_tutorail.exe
+D:\E-Learning\Mohamed\C #\tutorialpoint\13-enum_tutorail\13-enum_tutorail\bin\Debug\net5.0\13-enum_tutorail.deps.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\13-enum_tutorail\13-enum_tutorail\bin\Debug\net5.0\13-enum_tutorail.runtimeconfig.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\13-enum_tutorail\13-enum_tutorail\bin\Debug\net5.0\13-enum_tutorail.runtimeconfig.dev.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\13-enum_tutorail\13-enum_tutorail\bin\Debug\net5.0\13-enum_tutorail.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\13-enum_tutorail\13-enum_tutorail\bin\Debug\net5.0\ref\13-enum_tutorail.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\13-enum_tutorail\13-enum_tutorail\bin\Debug\net5.0\13-enum_tutorail.pdb
+D:\E-Learning\Mohamed\C #\tutorialpoint\13-enum_tutorail\13-enum_tutorail\obj\Debug\net5.0\13-enum_tutorail.csprojAssemblyReference.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\13-enum_tutorail\13-enum_tutorail\obj\Debug\net5.0\13-enum_tutorail.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Learning\Mohamed\C #\tutorialpoint\13-enum_tutorail\13-enum_tutorail\obj\Debug\net5.0\13-enum_tutorail.AssemblyInfoInputs.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\13-enum_tutorail\13-enum_tutorail\obj\Debug\net5.0\13-enum_tutorail.AssemblyInfo.cs
+D:\E-Learning\Mohamed\C #\tutorialpoint\13-enum_tutorail\13-enum_tutorail\obj\Debug\net5.0\13-enum_tutorail.csproj.CoreCompileInputs.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\13-enum_tutorail\13-enum_tutorail\obj\Debug\net5.0\13-enum_tutorail.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\13-enum_tutorail\13-enum_tutorail\obj\Debug\net5.0\ref\13-enum_tutorail.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\13-enum_tutorail\13-enum_tutorail\obj\Debug\net5.0\13-enum_tutorail.pdb
+D:\E-Learning\Mohamed\C #\tutorialpoint\13-enum_tutorail\13-enum_tutorail\obj\Debug\net5.0\13-enum_tutorail.genruntimeconfig.cache

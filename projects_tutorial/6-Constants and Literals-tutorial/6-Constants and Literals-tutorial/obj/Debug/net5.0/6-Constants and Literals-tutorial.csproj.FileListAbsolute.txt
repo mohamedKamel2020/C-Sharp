@@ -1,0 +1,16 @@
+D:\E-Learning\Mohamed\C #\tutorialpoint\6-Constants and Literals-tutorial\6-Constants and Literals-tutorial\bin\Debug\net5.0\6-Constants and Literals-tutorial.exe
+D:\E-Learning\Mohamed\C #\tutorialpoint\6-Constants and Literals-tutorial\6-Constants and Literals-tutorial\bin\Debug\net5.0\6-Constants and Literals-tutorial.deps.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\6-Constants and Literals-tutorial\6-Constants and Literals-tutorial\bin\Debug\net5.0\6-Constants and Literals-tutorial.runtimeconfig.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\6-Constants and Literals-tutorial\6-Constants and Literals-tutorial\bin\Debug\net5.0\6-Constants and Literals-tutorial.runtimeconfig.dev.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\6-Constants and Literals-tutorial\6-Constants and Literals-tutorial\bin\Debug\net5.0\6-Constants and Literals-tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\6-Constants and Literals-tutorial\6-Constants and Literals-tutorial\bin\Debug\net5.0\ref\6-Constants and Literals-tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\6-Constants and Literals-tutorial\6-Constants and Literals-tutorial\bin\Debug\net5.0\6-Constants and Literals-tutorial.pdb
+D:\E-Learning\Mohamed\C #\tutorialpoint\6-Constants and Literals-tutorial\6-Constants and Literals-tutorial\obj\Debug\net5.0\6-Constants and Literals-tutorial.csprojAssemblyReference.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\6-Constants and Literals-tutorial\6-Constants and Literals-tutorial\obj\Debug\net5.0\6-Constants and Literals-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Learning\Mohamed\C #\tutorialpoint\6-Constants and Literals-tutorial\6-Constants and Literals-tutorial\obj\Debug\net5.0\6-Constants and Literals-tutorial.AssemblyInfoInputs.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\6-Constants and Literals-tutorial\6-Constants and Literals-tutorial\obj\Debug\net5.0\6-Constants and Literals-tutorial.AssemblyInfo.cs
+D:\E-Learning\Mohamed\C #\tutorialpoint\6-Constants and Literals-tutorial\6-Constants and Literals-tutorial\obj\Debug\net5.0\6-Constants and Literals-tutorial.csproj.CoreCompileInputs.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\6-Constants and Literals-tutorial\6-Constants and Literals-tutorial\obj\Debug\net5.0\6-Constants and Literals-tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\6-Constants and Literals-tutorial\6-Constants and Literals-tutorial\obj\Debug\net5.0\ref\6-Constants and Literals-tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\6-Constants and Literals-tutorial\6-Constants and Literals-tutorial\obj\Debug\net5.0\6-Constants and Literals-tutorial.pdb
+D:\E-Learning\Mohamed\C #\tutorialpoint\6-Constants and Literals-tutorial\6-Constants and Literals-tutorial\obj\Debug\net5.0\6-Constants and Literals-tutorial.genruntimeconfig.cache

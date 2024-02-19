@@ -1,0 +1,16 @@
+D:\E-Learning\Mohamed\C #\tutorialpoint\5-Variables-tutorial\5-Variables-tutorial\bin\Debug\net5.0\5-Variables-tutorial.exe
+D:\E-Learning\Mohamed\C #\tutorialpoint\5-Variables-tutorial\5-Variables-tutorial\bin\Debug\net5.0\5-Variables-tutorial.deps.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\5-Variables-tutorial\5-Variables-tutorial\bin\Debug\net5.0\5-Variables-tutorial.runtimeconfig.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\5-Variables-tutorial\5-Variables-tutorial\bin\Debug\net5.0\5-Variables-tutorial.runtimeconfig.dev.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\5-Variables-tutorial\5-Variables-tutorial\bin\Debug\net5.0\5-Variables-tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\5-Variables-tutorial\5-Variables-tutorial\bin\Debug\net5.0\ref\5-Variables-tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\5-Variables-tutorial\5-Variables-tutorial\bin\Debug\net5.0\5-Variables-tutorial.pdb
+D:\E-Learning\Mohamed\C #\tutorialpoint\5-Variables-tutorial\5-Variables-tutorial\obj\Debug\net5.0\5-Variables-tutorial.csprojAssemblyReference.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\5-Variables-tutorial\5-Variables-tutorial\obj\Debug\net5.0\5-Variables-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Learning\Mohamed\C #\tutorialpoint\5-Variables-tutorial\5-Variables-tutorial\obj\Debug\net5.0\5-Variables-tutorial.AssemblyInfoInputs.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\5-Variables-tutorial\5-Variables-tutorial\obj\Debug\net5.0\5-Variables-tutorial.AssemblyInfo.cs
+D:\E-Learning\Mohamed\C #\tutorialpoint\5-Variables-tutorial\5-Variables-tutorial\obj\Debug\net5.0\5-Variables-tutorial.csproj.CoreCompileInputs.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\5-Variables-tutorial\5-Variables-tutorial\obj\Debug\net5.0\5-Variables-tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\5-Variables-tutorial\5-Variables-tutorial\obj\Debug\net5.0\ref\5-Variables-tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\5-Variables-tutorial\5-Variables-tutorial\obj\Debug\net5.0\5-Variables-tutorial.pdb
+D:\E-Learning\Mohamed\C #\tutorialpoint\5-Variables-tutorial\5-Variables-tutorial\obj\Debug\net5.0\5-Variables-tutorial.genruntimeconfig.cache

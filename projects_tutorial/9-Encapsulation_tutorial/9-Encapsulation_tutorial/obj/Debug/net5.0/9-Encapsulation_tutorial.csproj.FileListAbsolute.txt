@@ -1,0 +1,16 @@
+D:\E-Learning\Mohamed\C #\tutorialpoint\9-Encapsulation_tutorial\9-Encapsulation_tutorial\bin\Debug\net5.0\9-Encapsulation_tutorial.exe
+D:\E-Learning\Mohamed\C #\tutorialpoint\9-Encapsulation_tutorial\9-Encapsulation_tutorial\bin\Debug\net5.0\9-Encapsulation_tutorial.deps.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\9-Encapsulation_tutorial\9-Encapsulation_tutorial\bin\Debug\net5.0\9-Encapsulation_tutorial.runtimeconfig.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\9-Encapsulation_tutorial\9-Encapsulation_tutorial\bin\Debug\net5.0\9-Encapsulation_tutorial.runtimeconfig.dev.json
+D:\E-Learning\Mohamed\C #\tutorialpoint\9-Encapsulation_tutorial\9-Encapsulation_tutorial\bin\Debug\net5.0\9-Encapsulation_tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\9-Encapsulation_tutorial\9-Encapsulation_tutorial\bin\Debug\net5.0\ref\9-Encapsulation_tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\9-Encapsulation_tutorial\9-Encapsulation_tutorial\bin\Debug\net5.0\9-Encapsulation_tutorial.pdb
+D:\E-Learning\Mohamed\C #\tutorialpoint\9-Encapsulation_tutorial\9-Encapsulation_tutorial\obj\Debug\net5.0\9-Encapsulation_tutorial.csprojAssemblyReference.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\9-Encapsulation_tutorial\9-Encapsulation_tutorial\obj\Debug\net5.0\9-Encapsulation_tutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Learning\Mohamed\C #\tutorialpoint\9-Encapsulation_tutorial\9-Encapsulation_tutorial\obj\Debug\net5.0\9-Encapsulation_tutorial.AssemblyInfoInputs.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\9-Encapsulation_tutorial\9-Encapsulation_tutorial\obj\Debug\net5.0\9-Encapsulation_tutorial.AssemblyInfo.cs
+D:\E-Learning\Mohamed\C #\tutorialpoint\9-Encapsulation_tutorial\9-Encapsulation_tutorial\obj\Debug\net5.0\9-Encapsulation_tutorial.csproj.CoreCompileInputs.cache
+D:\E-Learning\Mohamed\C #\tutorialpoint\9-Encapsulation_tutorial\9-Encapsulation_tutorial\obj\Debug\net5.0\9-Encapsulation_tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\9-Encapsulation_tutorial\9-Encapsulation_tutorial\obj\Debug\net5.0\ref\9-Encapsulation_tutorial.dll
+D:\E-Learning\Mohamed\C #\tutorialpoint\9-Encapsulation_tutorial\9-Encapsulation_tutorial\obj\Debug\net5.0\9-Encapsulation_tutorial.pdb
+D:\E-Learning\Mohamed\C #\tutorialpoint\9-Encapsulation_tutorial\9-Encapsulation_tutorial\obj\Debug\net5.0\9-Encapsulation_tutorial.genruntimeconfig.cache
