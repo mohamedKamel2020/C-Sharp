@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 05 OOP\\Session01OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3CA3C1-A2C9-4451-97F9-89CFE357EAB8}|AccessModifier\\Day 01.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\c#\\route\\session 05 oop\\session01oop\\accessmodifier\\inheritance\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3CA3C1-A2C9-4451-97F9-89CFE357EAB8}|AccessModifier\\Day 01.csproj|solutionrelative:accessmodifier\\inheritance\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA830E56-D5C2-43F4-A1BD-00D64E77A92A}|Assignment\\Assignment.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\c#\\route\\session 05 oop\\session01oop\\assignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA830E56-D5C2-43F4-A1BD-00D64E77A92A}|Assignment\\Assignment.csproj|solutionrelative:assignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA830E56-D5C2-43F4-A1BD-00D64E77A92A}|Assignment\\Assignment.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\c#\\route\\session 05 oop\\session01oop\\assignment\\hiringdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA830E56-D5C2-43F4-A1BD-00D64E77A92A}|Assignment\\Assignment.csproj|solutionrelative:assignment\\hiringdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB78A03E-C06C-419D-8227-55AB2E087AD7}|Session01OOP\\Session01OOP.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\c#\\route\\session 05 oop\\session01oop\\session01oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB78A03E-C06C-419D-8227-55AB2E087AD7}|Session01OOP\\Session01OOP.csproj|solutionrelative:session01oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB78A03E-C06C-419D-8227-55AB2E087AD7}|Session01OOP\\Session01OOP.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\c#\\route\\session 05 oop\\session01oop\\session01oop\\session01oop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB78A03E-C06C-419D-8227-55AB2E087AD7}|Session01OOP\\Session01OOP.csproj|solutionrelative:session01oop\\session01oop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3CA3C1-A2C9-4451-97F9-89CFE357EAB8}|AccessModifier\\Day 01.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\c#\\route\\session 05 oop\\session01oop\\accessmodifier\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3CA3C1-A2C9-4451-97F9-89CFE357EAB8}|AccessModifier\\Day 01.csproj|solutionrelative:accessmodifier\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3CA3C1-A2C9-4451-97F9-89CFE357EAB8}|AccessModifier\\Day 01.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\c#\\route\\session 05 oop\\session01oop\\accessmodifier\\day 01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A3CA3C1-A2C9-4451-97F9-89CFE357EAB8}|AccessModifier\\Day 01.csproj|solutionrelative:accessmodifier\\day 01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3CA3C1-A2C9-4451-97F9-89CFE357EAB8}|AccessModifier\\Day 01.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\c#\\route\\session 05 oop\\session01oop\\accessmodifier\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3CA3C1-A2C9-4451-97F9-89CFE357EAB8}|AccessModifier\\Day 01.csproj|solutionrelative:accessmodifier\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Session01OOP",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 05 OOP\\Session01OOP\\Session01OOP\\Session01OOP.csproj",
+              "RelativeDocumentMoniker": "Session01OOP\\Session01OOP.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 05 OOP\\Session01OOP\\Session01OOP\\Session01OOP.csproj",
+              "RelativeToolTip": "Session01OOP\\Session01OOP.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T17:41:20.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HiringDate.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 05 OOP\\Session01OOP\\Assignment\\HiringDate.cs",
+              "RelativeDocumentMoniker": "Assignment\\HiringDate.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 05 OOP\\Session01OOP\\Assignment\\HiringDate.cs",
+              "RelativeToolTip": "Assignment\\HiringDate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:18:37.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 05 OOP\\Session01OOP\\Assignment\\Employee.cs",
+              "RelativeDocumentMoniker": "Assignment\\Employee.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 05 OOP\\Session01OOP\\Assignment\\Employee.cs",
+              "RelativeToolTip": "Assignment\\Employee.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:14:14.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 05 OOP\\Session01OOP\\AccessModifier\\Inheritance\\Parent.cs",
+              "RelativeDocumentMoniker": "AccessModifier\\Inheritance\\Parent.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 05 OOP\\Session01OOP\\AccessModifier\\Inheritance\\Parent.cs",
+              "RelativeToolTip": "AccessModifier\\Inheritance\\Parent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:04:01.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 05 OOP\\Session01OOP\\AccessModifier\\Car.cs",
+              "RelativeDocumentMoniker": "AccessModifier\\Car.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 05 OOP\\Session01OOP\\AccessModifier\\Car.cs",
+              "RelativeToolTip": "AccessModifier\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:49:33.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhoneBook.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 05 OOP\\Session01OOP\\AccessModifier\\PhoneBook.cs",
+              "RelativeDocumentMoniker": "AccessModifier\\PhoneBook.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 05 OOP\\Session01OOP\\AccessModifier\\PhoneBook.cs",
+              "RelativeToolTip": "AccessModifier\\PhoneBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:00:08.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 05 OOP\\Session01OOP\\Session01OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Session01OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 05 OOP\\Session01OOP\\Session01OOP\\Program.cs",
+              "RelativeToolTip": "Session01OOP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:23:14.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Day 01",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 05 OOP\\Session01OOP\\AccessModifier\\Day 01.csproj",
+              "RelativeDocumentMoniker": "AccessModifier\\Day 01.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 05 OOP\\Session01OOP\\AccessModifier\\Day 01.csproj",
+              "RelativeToolTip": "AccessModifier\\Day 01.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T14:49:17.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

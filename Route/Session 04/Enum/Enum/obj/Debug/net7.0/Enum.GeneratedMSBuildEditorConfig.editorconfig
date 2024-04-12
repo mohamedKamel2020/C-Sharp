@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Enum
 build_property.ProjectDir = C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 04\Enum\Enum\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

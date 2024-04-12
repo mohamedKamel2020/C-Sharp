@@ -1,0 +1,24 @@
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\bin\Debug\net8.0\Session01OOP.exe
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\bin\Debug\net8.0\Session01OOP.deps.json
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\bin\Debug\net8.0\Session01OOP.runtimeconfig.json
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\bin\Debug\net8.0\Session01OOP.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\bin\Debug\net8.0\Session01OOP.pdb
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\bin\Debug\net8.0\Day 01.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\bin\Debug\net8.0\Day 01.pdb
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\obj\Debug\net8.0\Session01OOP.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\obj\Debug\net8.0\Session01OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\obj\Debug\net8.0\Session01OOP.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\obj\Debug\net8.0\Session01OOP.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\obj\Debug\net8.0\Session01OOP.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\obj\Debug\net8.0\Session01OOP.sourcelink.json
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\obj\Debug\net8.0\Session0.A4B1FBE1.Up2Date
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\obj\Debug\net8.0\Session01OOP.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\obj\Debug\net8.0\refint\Session01OOP.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\obj\Debug\net8.0\Session01OOP.pdb
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\obj\Debug\net8.0\Session01OOP.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\obj\Debug\net8.0\ref\Session01OOP.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\bin\Debug\net8.0\LaTeX.Net.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\bin\Debug\net8.0\MathML.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\bin\Debug\net8.0\MathNet.Numerics.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\bin\Debug\net8.0\Assignment.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\Route\Session 05 OOP\Session01OOP\Session01OOP\bin\Debug\net8.0\Assignment.pdb
