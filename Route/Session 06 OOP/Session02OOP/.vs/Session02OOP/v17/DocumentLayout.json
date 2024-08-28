@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\c#\\route\\session 06 oop\\session02oop\\session02oop\\interfaces\\icontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|solutionrelative:session02oop\\interfaces\\icontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\c#\\route\\session 06 oop\\session02oop\\session02oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|solutionrelative:session02oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\session02oop\\polymorephism\\type e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|solutionrelative:session02oop\\polymorephism\\type e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\session02oop\\polymorephism\\type c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|solutionrelative:session02oop\\polymorephism\\type c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\session02oop\\polymorephism\\type b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|solutionrelative:session02oop\\polymorephism\\type b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\session02oop\\polymorephism\\type a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|solutionrelative:session02oop\\polymorephism\\type a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\session02oop\\interfaces\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|solutionrelative:session02oop\\interfaces\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\session02oop\\interfaces\\seriesbythree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|solutionrelative:session02oop\\interfaces\\seriesbythree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\session02oop\\interfaces\\seriesbytwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|solutionrelative:session02oop\\interfaces\\seriesbytwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\session02oop\\interfaces\\iseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|solutionrelative:session02oop\\interfaces\\iseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\session02oop\\session02oop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|solutionrelative:session02oop\\session02oop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\session02oop\\polymorephism\\type d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|solutionrelative:session02oop\\polymorephism\\type d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IControl.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\Interfaces\\IControl.cs",
+              "RelativeDocumentMoniker": "Session02OOP\\Interfaces\\IControl.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\Interfaces\\IControl.cs",
+              "RelativeToolTip": "Session02OOP\\Interfaces\\IControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T04:47:48.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\Interfaces\\Employee.cs",
+              "RelativeDocumentMoniker": "Session02OOP\\Interfaces\\Employee.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\Interfaces\\Employee.cs",
+              "RelativeToolTip": "Session02OOP\\Interfaces\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T21:22:46.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Type C.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\PolyMorephism\\Type C.cs",
+              "RelativeDocumentMoniker": "Session02OOP\\PolyMorephism\\Type C.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\PolyMorephism\\Type C.cs",
+              "RelativeToolTip": "Session02OOP\\PolyMorephism\\Type C.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:17:18.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Type B.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\PolyMorephism\\Type B.cs",
+              "RelativeDocumentMoniker": "Session02OOP\\PolyMorephism\\Type B.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\PolyMorephism\\Type B.cs",
+              "RelativeToolTip": "Session02OOP\\PolyMorephism\\Type B.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:33:13.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Session02OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\Program.cs",
+              "RelativeToolTip": "Session02OOP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:00:13.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SeriesByThree.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\Interfaces\\SeriesByThree.cs",
+              "RelativeDocumentMoniker": "Session02OOP\\Interfaces\\SeriesByThree.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\Interfaces\\SeriesByThree.cs",
+              "RelativeToolTip": "Session02OOP\\Interfaces\\SeriesByThree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T20:36:07.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Type D.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\PolyMorephism\\Type D.cs",
+              "RelativeDocumentMoniker": "Session02OOP\\PolyMorephism\\Type D.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\PolyMorephism\\Type D.cs",
+              "RelativeToolTip": "Session02OOP\\PolyMorephism\\Type D.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:39:15.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Type A.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\PolyMorephism\\Type A.cs",
+              "RelativeDocumentMoniker": "Session02OOP\\PolyMorephism\\Type A.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\PolyMorephism\\Type A.cs",
+              "RelativeToolTip": "Session02OOP\\PolyMorephism\\Type A.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:31:15.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Type E.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\PolyMorephism\\Type E.cs",
+              "RelativeDocumentMoniker": "Session02OOP\\PolyMorephism\\Type E.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\PolyMorephism\\Type E.cs",
+              "RelativeToolTip": "Session02OOP\\PolyMorephism\\Type E.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:39:37.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Session02OOP",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\Session02OOP.csproj",
+              "RelativeDocumentMoniker": "Session02OOP\\Session02OOP.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\Session02OOP.csproj",
+              "RelativeToolTip": "Session02OOP\\Session02OOP.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-19T17:52:50.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISeries.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\Interfaces\\ISeries.cs",
+              "RelativeDocumentMoniker": "Session02OOP\\Interfaces\\ISeries.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\Interfaces\\ISeries.cs",
+              "RelativeToolTip": "Session02OOP\\Interfaces\\ISeries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T20:32:34.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SeriesByTwo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\Interfaces\\SeriesByTwo.cs",
+              "RelativeDocumentMoniker": "Session02OOP\\Interfaces\\SeriesByTwo.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\Interfaces\\SeriesByTwo.cs",
+              "RelativeToolTip": "Session02OOP\\Interfaces\\SeriesByTwo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T20:34:36.82Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

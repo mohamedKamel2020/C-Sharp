@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnHashtable\LearnHashtable\bin\Debug\net8.0\LearnHashtable.exe
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnHashtable\LearnHashtable\bin\Debug\net8.0\LearnHashtable.deps.json
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnHashtable\LearnHashtable\bin\Debug\net8.0\LearnHashtable.runtimeconfig.json
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnHashtable\LearnHashtable\bin\Debug\net8.0\LearnHashtable.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnHashtable\LearnHashtable\bin\Debug\net8.0\LearnHashtable.pdb
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnHashtable\LearnHashtable\obj\Debug\net8.0\LearnHashtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnHashtable\LearnHashtable\obj\Debug\net8.0\LearnHashtable.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnHashtable\LearnHashtable\obj\Debug\net8.0\LearnHashtable.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnHashtable\LearnHashtable\obj\Debug\net8.0\LearnHashtable.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnHashtable\LearnHashtable\obj\Debug\net8.0\LearnHashtable.sourcelink.json
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnHashtable\LearnHashtable\obj\Debug\net8.0\LearnHashtable.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnHashtable\LearnHashtable\obj\Debug\net8.0\refint\LearnHashtable.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnHashtable\LearnHashtable\obj\Debug\net8.0\LearnHashtable.pdb
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnHashtable\LearnHashtable\obj\Debug\net8.0\LearnHashtable.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnHashtable\LearnHashtable\obj\Debug\net8.0\ref\LearnHashtable.dll
