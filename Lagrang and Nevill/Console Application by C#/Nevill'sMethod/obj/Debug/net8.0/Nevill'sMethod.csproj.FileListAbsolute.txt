@@ -1,0 +1,28 @@
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Nevill'sMethod\Nevill'sMethod\bin\Debug\net8.0\Nevill'sMethod.exe
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Nevill'sMethod\Nevill'sMethod\bin\Debug\net8.0\Nevill'sMethod.deps.json
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Nevill'sMethod\Nevill'sMethod\bin\Debug\net8.0\Nevill'sMethod.runtimeconfig.json
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Nevill'sMethod\Nevill'sMethod\bin\Debug\net8.0\Nevill'sMethod.dll
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Nevill'sMethod\Nevill'sMethod\bin\Debug\net8.0\Nevill'sMethod.pdb
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Nevill'sMethod\Nevill'sMethod\obj\Debug\net8.0\Nevill'sMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Nevill'sMethod\Nevill'sMethod\obj\Debug\net8.0\Nevill'sMethod.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Nevill'sMethod\Nevill'sMethod\obj\Debug\net8.0\Nevill'sMethod.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Nevill'sMethod\Nevill'sMethod\obj\Debug\net8.0\Nevill'sMethod.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Nevill'sMethod\Nevill'sMethod\obj\Debug\net8.0\Nevill'sMethod.dll
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Nevill'sMethod\Nevill'sMethod\obj\Debug\net8.0\refint\Nevill'sMethod.dll
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Nevill'sMethod\Nevill'sMethod\obj\Debug\net8.0\Nevill'sMethod.pdb
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Nevill'sMethod\Nevill'sMethod\obj\Debug\net8.0\Nevill'sMethod.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Nevill'sMethod\Nevill'sMethod\obj\Debug\net8.0\ref\Nevill'sMethod.dll
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Console Application by C#\Nevill'sMethod\bin\Debug\net8.0\Nevill'sMethod.exe
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Console Application by C#\Nevill'sMethod\bin\Debug\net8.0\Nevill'sMethod.deps.json
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Console Application by C#\Nevill'sMethod\bin\Debug\net8.0\Nevill'sMethod.runtimeconfig.json
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Console Application by C#\Nevill'sMethod\bin\Debug\net8.0\Nevill'sMethod.dll
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Console Application by C#\Nevill'sMethod\bin\Debug\net8.0\Nevill'sMethod.pdb
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Console Application by C#\Nevill'sMethod\obj\Debug\net8.0\Nevill'sMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Console Application by C#\Nevill'sMethod\obj\Debug\net8.0\Nevill'sMethod.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Console Application by C#\Nevill'sMethod\obj\Debug\net8.0\Nevill'sMethod.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Console Application by C#\Nevill'sMethod\obj\Debug\net8.0\Nevill'sMethod.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Console Application by C#\Nevill'sMethod\obj\Debug\net8.0\Nevill'sMethod.dll
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Console Application by C#\Nevill'sMethod\obj\Debug\net8.0\refint\Nevill'sMethod.dll
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Console Application by C#\Nevill'sMethod\obj\Debug\net8.0\Nevill'sMethod.pdb
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Console Application by C#\Nevill'sMethod\obj\Debug\net8.0\Nevill'sMethod.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MY PC\University\Second term\Numerical Analysis\Code\Console Application by C#\Nevill'sMethod\obj\Debug\net8.0\ref\Nevill'sMethod.dll

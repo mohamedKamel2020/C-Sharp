@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\PrimeFactorization\PrimeFactorization\bin\Debug\net6.0\PrimeFactorization.exe
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\PrimeFactorization\PrimeFactorization\bin\Debug\net6.0\PrimeFactorization.deps.json
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\PrimeFactorization\PrimeFactorization\bin\Debug\net6.0\PrimeFactorization.runtimeconfig.json
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\PrimeFactorization\PrimeFactorization\bin\Debug\net6.0\PrimeFactorization.dll
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\PrimeFactorization\PrimeFactorization\bin\Debug\net6.0\PrimeFactorization.pdb
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\PrimeFactorization\PrimeFactorization\obj\Debug\net6.0\PrimeFactorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\PrimeFactorization\PrimeFactorization\obj\Debug\net6.0\PrimeFactorization.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\PrimeFactorization\PrimeFactorization\obj\Debug\net6.0\PrimeFactorization.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\PrimeFactorization\PrimeFactorization\obj\Debug\net6.0\PrimeFactorization.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\PrimeFactorization\PrimeFactorization\obj\Debug\net6.0\PrimeFactorization.dll
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\PrimeFactorization\PrimeFactorization\obj\Debug\net6.0\refint\PrimeFactorization.dll
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\PrimeFactorization\PrimeFactorization\obj\Debug\net6.0\PrimeFactorization.pdb
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\PrimeFactorization\PrimeFactorization\obj\Debug\net6.0\PrimeFactorization.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\PrimeFactorization\PrimeFactorization\obj\Debug\net6.0\ref\PrimeFactorization.dll

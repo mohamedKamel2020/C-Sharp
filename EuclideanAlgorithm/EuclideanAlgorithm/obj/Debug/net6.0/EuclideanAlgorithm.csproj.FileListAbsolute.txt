@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\EuclideanAlgorithm\EuclideanAlgorithm\bin\Debug\net6.0\EuclideanAlgorithm.exe
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\EuclideanAlgorithm\EuclideanAlgorithm\bin\Debug\net6.0\EuclideanAlgorithm.deps.json
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\EuclideanAlgorithm\EuclideanAlgorithm\bin\Debug\net6.0\EuclideanAlgorithm.runtimeconfig.json
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\EuclideanAlgorithm\EuclideanAlgorithm\bin\Debug\net6.0\EuclideanAlgorithm.dll
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\EuclideanAlgorithm\EuclideanAlgorithm\bin\Debug\net6.0\EuclideanAlgorithm.pdb
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\EuclideanAlgorithm\EuclideanAlgorithm\obj\Debug\net6.0\EuclideanAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\EuclideanAlgorithm\EuclideanAlgorithm\obj\Debug\net6.0\EuclideanAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\EuclideanAlgorithm\EuclideanAlgorithm\obj\Debug\net6.0\EuclideanAlgorithm.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\EuclideanAlgorithm\EuclideanAlgorithm\obj\Debug\net6.0\EuclideanAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\EuclideanAlgorithm\EuclideanAlgorithm\obj\Debug\net6.0\EuclideanAlgorithm.dll
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\EuclideanAlgorithm\EuclideanAlgorithm\obj\Debug\net6.0\refint\EuclideanAlgorithm.dll
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\EuclideanAlgorithm\EuclideanAlgorithm\obj\Debug\net6.0\EuclideanAlgorithm.pdb
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\EuclideanAlgorithm\EuclideanAlgorithm\obj\Debug\net6.0\EuclideanAlgorithm.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MY PC\University\Discrete Mathematics\EuclideanAlgorithm\EuclideanAlgorithm\obj\Debug\net6.0\ref\EuclideanAlgorithm.dll
