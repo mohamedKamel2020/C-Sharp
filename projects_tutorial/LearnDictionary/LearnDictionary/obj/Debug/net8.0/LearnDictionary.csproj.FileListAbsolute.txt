@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnDictionary\LearnDictionary\bin\Debug\net8.0\LearnDictionary.exe
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnDictionary\LearnDictionary\bin\Debug\net8.0\LearnDictionary.deps.json
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnDictionary\LearnDictionary\bin\Debug\net8.0\LearnDictionary.runtimeconfig.json
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnDictionary\LearnDictionary\bin\Debug\net8.0\LearnDictionary.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnDictionary\LearnDictionary\bin\Debug\net8.0\LearnDictionary.pdb
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnDictionary\LearnDictionary\obj\Debug\net8.0\LearnDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnDictionary\LearnDictionary\obj\Debug\net8.0\LearnDictionary.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnDictionary\LearnDictionary\obj\Debug\net8.0\LearnDictionary.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnDictionary\LearnDictionary\obj\Debug\net8.0\LearnDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnDictionary\LearnDictionary\obj\Debug\net8.0\LearnDictionary.sourcelink.json
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnDictionary\LearnDictionary\obj\Debug\net8.0\LearnDictionary.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnDictionary\LearnDictionary\obj\Debug\net8.0\refint\LearnDictionary.dll
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnDictionary\LearnDictionary\obj\Debug\net8.0\LearnDictionary.pdb
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnDictionary\LearnDictionary\obj\Debug\net8.0\LearnDictionary.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MY PC\programing\C#\projects_tutorial\LearnDictionary\LearnDictionary\obj\Debug\net8.0\ref\LearnDictionary.dll
