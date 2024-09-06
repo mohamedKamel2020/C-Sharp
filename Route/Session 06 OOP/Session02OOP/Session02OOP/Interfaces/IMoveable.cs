@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace Session02OOP.Interfaces
 {
-    internal interface IControl
+    internal interface IMoveable
     {
-        void Paint() ;
+        void Forward();
+        void Backward();
+        void Left();
+        void Right();
     }
 }

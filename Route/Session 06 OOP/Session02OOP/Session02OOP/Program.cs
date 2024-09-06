@@ -1,5 +1,7 @@
 ﻿using Session02OOP.PolyMorephism;
 using Session02OOP.Interfaces;
+using Session02OOP.abstractClass;
+using Session02OOP.OperatorOverloading;
 
 namespace Session02OOP
 {
@@ -112,6 +114,7 @@ namespace Session02OOP
             //SeriesByThree seriesByThree = new SeriesByThree();
             //Print10NumbersFromSeries(seriesByThree);
 
+
             //Employee employee1 = new Employee() { Id = 10, Name = "Ahmed", Salary = 10000 };//object Intializer
             //Employee employee2 = new Employee() { Id = 20, Name = "Mohamed", Salary = 20000 };
 
@@ -134,7 +137,7 @@ namespace Session02OOP
             //Console.WriteLine(employee2.GetHashCode());
             //Console.WriteLine(employee1);
             //Console.WriteLine(employee2);
-            
+
             ////Deep Copy by Constructor Copy
             //Console.WriteLine("Before Deep Copy");
             //Console.WriteLine(employee1.GetHashCode());
@@ -146,7 +149,78 @@ namespace Session02OOP
             //Console.WriteLine(employee1);
             //Console.WriteLine(employee2);
 
+            //Employee[] employees = { 
+            //new Employee(10,"Ahmed" ,7000),
+            //new Employee(20,"Aya"   ,4000),
+            //new Employee(30,"Salah" ,5000),
+            //new Employee(40,"Khaled",2000),
+            //};
+
+            ////Array.Sort(employees);
+
+            ////foreach (Employee employee in employees)
+            ////    Console.WriteLine(employee);
+
+
+            //int result = employees[0].CompareTo(employees[1]);
+            //if (result == -1)
+            //    Console.WriteLine($"{employees[0].Name} has salary < salary for {employees[1].Name} ");
+            //else if (result == 1)
+            //    Console.WriteLine($"{employees[0].Name} has salary > salary for {employees[1].Name} ");
+            //else
+            //    Console.WriteLine($"{employees[0].Name} has salary = salary for {employees[1].Name} ");
+
+            //Airplane airplane = new Airplane();
+            ////airplane.Forward(); //this is invalid cannot access to func 
+
+            //IFlyable airplane2 = new Airplane();
+            //airplane2.Forward(); 
             #endregion
+
+            #region Abstract 
+            //Rect rect = new Rect() { Dim01 = 6, Dim02 = 6 };
+            //Console.WriteLine(rect.CalcArea());
+            //Circle circle = new Circle(10);
+            //Console.WriteLine( circle.CalcArea());
+            //Console.WriteLine(circle.Perimeter);
+            #endregion
+
+            #region Operator Overloading
+            //Complex C1 = new Complex() { Real = 3, Imaginary = 2 };
+            //Complex C2 = new Complex() { Real = 1, Imaginary = 4 };
+            //Complex C3 = default;//null
+            
+            //C3 = C1 + C2;
+            
+            ////if (C1 > C2)
+            ////    Console.WriteLine("C1 is Greater than C2");
+            ////else
+            ////    Console.WriteLine("C2 is Greater than C1");
+            
+            //C3--;
+
+            //Console.WriteLine(C3);
+            
+            //int y=(int) C1;
+            
+            //string str= C3;
+
+            //Console.WriteLine(y);
+            //Console.WriteLine(str);
+            // Casting operator Oveloading
+            //EmployeeModel model = new EmployeeModel()
+            //{
+            //    Id = 1,
+            //    FullName= "Mohamed Kamel",
+            //    Password="test",
+            //    SeurityStamp= "sdbbfhu432"
+            //};
+
+            //EmployeeViewModel viewModel = (EmployeeViewModel) model;
+            //Console.WriteLine(viewModel.FName);
+            //Console.WriteLine(viewModel.LName);
+            #endregion
+
 
         }
     }
