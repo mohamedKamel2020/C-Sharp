@@ -5,6 +5,48 @@ using Session02OOP.OperatorOverloading;
 
 namespace Session02OOP
 {
+    #region static keyword
+    static class test
+    {
+
+    }
+    static class Utility
+    {
+        //public int X { get; set; }
+        //public int Y { get; set; }
+        //private static double pi;
+        private const double pi=3.14;
+
+        public static  double PI
+        {
+            get { return pi; }
+            
+        }
+        //object constructor
+        //public Utility(int _X,int _Y)
+        //{
+        //    X = _X;
+        //    Y = _Y;
+        //    //pi = 3.14;
+        //}
+        //class Constructor
+        //static Utility()
+        //{
+        //    pi = 3.14;
+        //}
+        //Class member method
+        public static double CmToInch(double Cm)
+        {
+            return Cm / 2.54;
+        }
+
+        public static double calcCircleArea(int radius)
+        {
+            return PI * radius * radius;
+        }
+    }
+    #endregion
+
     internal class Program
     {
         #region Overloading
@@ -189,20 +231,20 @@ namespace Session02OOP
             //Complex C1 = new Complex() { Real = 3, Imaginary = 2 };
             //Complex C2 = new Complex() { Real = 1, Imaginary = 4 };
             //Complex C3 = default;//null
-            
+
             //C3 = C1 + C2;
-            
+
             ////if (C1 > C2)
             ////    Console.WriteLine("C1 is Greater than C2");
             ////else
             ////    Console.WriteLine("C2 is Greater than C1");
-            
+
             //C3--;
 
             //Console.WriteLine(C3);
-            
+
             //int y=(int) C1;
-            
+
             //string str= C3;
 
             //Console.WriteLine(y);
@@ -220,6 +262,13 @@ namespace Session02OOP
             //Console.WriteLine(viewModel.FName);
             //Console.WriteLine(viewModel.LName);
             #endregion
+
+            #region static keyword
+            //Console.WriteLine( Utility.CmToInch(200));
+            //Console.WriteLine(Utility.calcCircleArea(10)); 
+            #endregion
+
+
 
 
         }

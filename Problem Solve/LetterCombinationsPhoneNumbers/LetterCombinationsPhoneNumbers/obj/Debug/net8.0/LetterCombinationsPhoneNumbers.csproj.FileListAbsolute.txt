@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\LetterCombinationsPhoneNumbers\LetterCombinationsPhoneNumbers\bin\Debug\net8.0\LetterCombinationsPhoneNumbers.exe
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\LetterCombinationsPhoneNumbers\LetterCombinationsPhoneNumbers\bin\Debug\net8.0\LetterCombinationsPhoneNumbers.deps.json
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\LetterCombinationsPhoneNumbers\LetterCombinationsPhoneNumbers\bin\Debug\net8.0\LetterCombinationsPhoneNumbers.runtimeconfig.json
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\LetterCombinationsPhoneNumbers\LetterCombinationsPhoneNumbers\bin\Debug\net8.0\LetterCombinationsPhoneNumbers.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\LetterCombinationsPhoneNumbers\LetterCombinationsPhoneNumbers\bin\Debug\net8.0\LetterCombinationsPhoneNumbers.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\LetterCombinationsPhoneNumbers\LetterCombinationsPhoneNumbers\obj\Debug\net8.0\LetterCombinationsPhoneNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\LetterCombinationsPhoneNumbers\LetterCombinationsPhoneNumbers\obj\Debug\net8.0\LetterCombinationsPhoneNumbers.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\LetterCombinationsPhoneNumbers\LetterCombinationsPhoneNumbers\obj\Debug\net8.0\LetterCombinationsPhoneNumbers.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\LetterCombinationsPhoneNumbers\LetterCombinationsPhoneNumbers\obj\Debug\net8.0\LetterCombinationsPhoneNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\LetterCombinationsPhoneNumbers\LetterCombinationsPhoneNumbers\obj\Debug\net8.0\LetterCombinationsPhoneNumbers.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\LetterCombinationsPhoneNumbers\LetterCombinationsPhoneNumbers\obj\Debug\net8.0\refint\LetterCombinationsPhoneNumbers.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\LetterCombinationsPhoneNumbers\LetterCombinationsPhoneNumbers\obj\Debug\net8.0\LetterCombinationsPhoneNumbers.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\LetterCombinationsPhoneNumbers\LetterCombinationsPhoneNumbers\obj\Debug\net8.0\LetterCombinationsPhoneNumbers.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\LetterCombinationsPhoneNumbers\LetterCombinationsPhoneNumbers\obj\Debug\net8.0\ref\LetterCombinationsPhoneNumbers.dll

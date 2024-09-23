@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibWithDP\FibWithDP\bin\Debug\net8.0\FibWithDP.exe
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibWithDP\FibWithDP\bin\Debug\net8.0\FibWithDP.deps.json
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibWithDP\FibWithDP\bin\Debug\net8.0\FibWithDP.runtimeconfig.json
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibWithDP\FibWithDP\bin\Debug\net8.0\FibWithDP.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibWithDP\FibWithDP\bin\Debug\net8.0\FibWithDP.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibWithDP\FibWithDP\obj\Debug\net8.0\FibWithDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibWithDP\FibWithDP\obj\Debug\net8.0\FibWithDP.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibWithDP\FibWithDP\obj\Debug\net8.0\FibWithDP.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibWithDP\FibWithDP\obj\Debug\net8.0\FibWithDP.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibWithDP\FibWithDP\obj\Debug\net8.0\FibWithDP.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibWithDP\FibWithDP\obj\Debug\net8.0\refint\FibWithDP.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibWithDP\FibWithDP\obj\Debug\net8.0\FibWithDP.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibWithDP\FibWithDP\obj\Debug\net8.0\FibWithDP.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibWithDP\FibWithDP\obj\Debug\net8.0\ref\FibWithDP.dll

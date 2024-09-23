@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FourSum\FourSum\bin\Debug\net8.0\FourSum.exe
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FourSum\FourSum\bin\Debug\net8.0\FourSum.deps.json
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FourSum\FourSum\bin\Debug\net8.0\FourSum.runtimeconfig.json
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FourSum\FourSum\bin\Debug\net8.0\FourSum.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FourSum\FourSum\bin\Debug\net8.0\FourSum.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FourSum\FourSum\obj\Debug\net8.0\FourSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FourSum\FourSum\obj\Debug\net8.0\FourSum.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FourSum\FourSum\obj\Debug\net8.0\FourSum.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FourSum\FourSum\obj\Debug\net8.0\FourSum.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FourSum\FourSum\obj\Debug\net8.0\FourSum.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FourSum\FourSum\obj\Debug\net8.0\refint\FourSum.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FourSum\FourSum\obj\Debug\net8.0\FourSum.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FourSum\FourSum\obj\Debug\net8.0\FourSum.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FourSum\FourSum\obj\Debug\net8.0\ref\FourSum.dll

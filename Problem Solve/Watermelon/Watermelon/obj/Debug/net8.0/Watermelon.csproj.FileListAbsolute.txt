@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Watermelon\Watermelon\Watermelon\bin\Debug\net8.0\Watermelon.exe
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Watermelon\Watermelon\Watermelon\bin\Debug\net8.0\Watermelon.deps.json
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Watermelon\Watermelon\Watermelon\bin\Debug\net8.0\Watermelon.runtimeconfig.json
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Watermelon\Watermelon\Watermelon\bin\Debug\net8.0\Watermelon.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Watermelon\Watermelon\Watermelon\bin\Debug\net8.0\Watermelon.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Watermelon\Watermelon\Watermelon\obj\Debug\net8.0\Watermelon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Watermelon\Watermelon\Watermelon\obj\Debug\net8.0\Watermelon.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Watermelon\Watermelon\Watermelon\obj\Debug\net8.0\Watermelon.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Watermelon\Watermelon\Watermelon\obj\Debug\net8.0\Watermelon.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Watermelon\Watermelon\Watermelon\obj\Debug\net8.0\Watermelon.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Watermelon\Watermelon\Watermelon\obj\Debug\net8.0\refint\Watermelon.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Watermelon\Watermelon\Watermelon\obj\Debug\net8.0\Watermelon.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Watermelon\Watermelon\Watermelon\obj\Debug\net8.0\Watermelon.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Watermelon\Watermelon\Watermelon\obj\Debug\net8.0\ref\Watermelon.dll

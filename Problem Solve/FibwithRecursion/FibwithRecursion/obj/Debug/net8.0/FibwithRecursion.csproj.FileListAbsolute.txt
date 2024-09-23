@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibwithRecursion\FibwithRecursion\bin\Debug\net8.0\FibwithRecursion.exe
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibwithRecursion\FibwithRecursion\bin\Debug\net8.0\FibwithRecursion.deps.json
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibwithRecursion\FibwithRecursion\bin\Debug\net8.0\FibwithRecursion.runtimeconfig.json
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibwithRecursion\FibwithRecursion\bin\Debug\net8.0\FibwithRecursion.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibwithRecursion\FibwithRecursion\bin\Debug\net8.0\FibwithRecursion.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibwithRecursion\FibwithRecursion\obj\Debug\net8.0\FibwithRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibwithRecursion\FibwithRecursion\obj\Debug\net8.0\FibwithRecursion.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibwithRecursion\FibwithRecursion\obj\Debug\net8.0\FibwithRecursion.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibwithRecursion\FibwithRecursion\obj\Debug\net8.0\FibwithRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibwithRecursion\FibwithRecursion\obj\Debug\net8.0\FibwithRecursion.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibwithRecursion\FibwithRecursion\obj\Debug\net8.0\refint\FibwithRecursion.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibwithRecursion\FibwithRecursion\obj\Debug\net8.0\FibwithRecursion.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibwithRecursion\FibwithRecursion\obj\Debug\net8.0\FibwithRecursion.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FibwithRecursion\FibwithRecursion\obj\Debug\net8.0\ref\FibwithRecursion.dll

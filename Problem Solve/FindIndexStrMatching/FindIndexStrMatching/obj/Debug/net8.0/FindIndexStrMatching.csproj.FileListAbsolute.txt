@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FindIndexStrMatching\FindIndexStrMatching\obj\Debug\net8.0\FindIndexStrMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FindIndexStrMatching\FindIndexStrMatching\obj\Debug\net8.0\FindIndexStrMatching.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FindIndexStrMatching\FindIndexStrMatching\obj\Debug\net8.0\FindIndexStrMatching.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FindIndexStrMatching\FindIndexStrMatching\obj\Debug\net8.0\FindIndexStrMatching.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FindIndexStrMatching\FindIndexStrMatching\bin\Debug\net8.0\FindIndexStrMatching.exe
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FindIndexStrMatching\FindIndexStrMatching\bin\Debug\net8.0\FindIndexStrMatching.deps.json
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FindIndexStrMatching\FindIndexStrMatching\bin\Debug\net8.0\FindIndexStrMatching.runtimeconfig.json
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FindIndexStrMatching\FindIndexStrMatching\bin\Debug\net8.0\FindIndexStrMatching.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FindIndexStrMatching\FindIndexStrMatching\bin\Debug\net8.0\FindIndexStrMatching.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FindIndexStrMatching\FindIndexStrMatching\obj\Debug\net8.0\FindIndexStrMatching.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FindIndexStrMatching\FindIndexStrMatching\obj\Debug\net8.0\refint\FindIndexStrMatching.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FindIndexStrMatching\FindIndexStrMatching\obj\Debug\net8.0\FindIndexStrMatching.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FindIndexStrMatching\FindIndexStrMatching\obj\Debug\net8.0\FindIndexStrMatching.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\FindIndexStrMatching\FindIndexStrMatching\obj\Debug\net8.0\ref\FindIndexStrMatching.dll

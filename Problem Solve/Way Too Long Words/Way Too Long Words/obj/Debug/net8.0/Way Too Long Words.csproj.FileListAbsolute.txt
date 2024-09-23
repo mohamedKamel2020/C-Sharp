@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Way Too Long Words\Way Too Long Words\bin\Debug\net8.0\Way Too Long Words.exe
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Way Too Long Words\Way Too Long Words\bin\Debug\net8.0\Way Too Long Words.deps.json
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Way Too Long Words\Way Too Long Words\bin\Debug\net8.0\Way Too Long Words.runtimeconfig.json
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Way Too Long Words\Way Too Long Words\bin\Debug\net8.0\Way Too Long Words.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Way Too Long Words\Way Too Long Words\bin\Debug\net8.0\Way Too Long Words.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Way Too Long Words\Way Too Long Words\obj\Debug\net8.0\Way Too Long Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Way Too Long Words\Way Too Long Words\obj\Debug\net8.0\Way Too Long Words.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Way Too Long Words\Way Too Long Words\obj\Debug\net8.0\Way Too Long Words.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Way Too Long Words\Way Too Long Words\obj\Debug\net8.0\Way Too Long Words.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Way Too Long Words\Way Too Long Words\obj\Debug\net8.0\Way Too Long Words.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Way Too Long Words\Way Too Long Words\obj\Debug\net8.0\refint\Way Too Long Words.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Way Too Long Words\Way Too Long Words\obj\Debug\net8.0\Way Too Long Words.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Way Too Long Words\Way Too Long Words\obj\Debug\net8.0\Way Too Long Words.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\CodeForces\Way Too Long Words\Way Too Long Words\obj\Debug\net8.0\ref\Way Too Long Words.dll

@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\CodeForces\\Watermelon\\Watermelon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22CBFEE5-B86F-4EAA-92E5-60FA4DEFAF8A}|Watermelon\\Watermelon.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\my-code\\codeforces\\watermelon\\watermelon\\watermelon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CBFEE5-B86F-4EAA-92E5-60FA4DEFAF8A}|Watermelon\\Watermelon.csproj|solutionrelative:watermelon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CBFEE5-B86F-4EAA-92E5-60FA4DEFAF8A}|Watermelon\\Watermelon.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\my-code\\codeforces\\watermelon\\watermelon\\watermelon\\watermelon.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{22CBFEE5-B86F-4EAA-92E5-60FA4DEFAF8A}|Watermelon\\Watermelon.csproj|solutionrelative:watermelon\\watermelon.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CBFEE5-B86F-4EAA-92E5-60FA4DEFAF8A}|Watermelon\\Watermelon.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\my-code\\codeforces\\watermelon\\watermelon\\watermelon\\watermelon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22CBFEE5-B86F-4EAA-92E5-60FA4DEFAF8A}|Watermelon\\Watermelon.csproj|solutionrelative:watermelon\\watermelon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Watermelon",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\CodeForces\\Watermelon\\Watermelon\\Watermelon\\Watermelon.csproj",
+              "RelativeDocumentMoniker": "Watermelon\\Watermelon.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\CodeForces\\Watermelon\\Watermelon\\Watermelon\\Watermelon.csproj",
+              "RelativeToolTip": "Watermelon\\Watermelon.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-29T21:34:50.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Watermelon",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\CodeForces\\Watermelon\\Watermelon\\Watermelon\\Watermelon.csproj",
+              "RelativeDocumentMoniker": "Watermelon\\Watermelon.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\CodeForces\\Watermelon\\Watermelon\\Watermelon\\Watermelon.csproj",
+              "RelativeToolTip": "Watermelon\\Watermelon.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-29T21:34:22.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\CodeForces\\Watermelon\\Watermelon\\Watermelon\\Program.cs",
+              "RelativeDocumentMoniker": "Watermelon\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\CodeForces\\Watermelon\\Watermelon\\Watermelon\\Program.cs",
+              "RelativeToolTip": "Watermelon\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T21:32:18.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\C#\\Route\\AdvancedC#Session01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0133DA-5F17-4A84-8D83-4C70E0C6A1C5}|AdvancedC#Session01\\AdvancedC#Session01.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\my-code\\c#\\route\\advancedc#session01\\advancedc#session01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0133DA-5F17-4A84-8D83-4C70E0C6A1C5}|AdvancedC#Session01\\AdvancedC#Session01.csproj|solutionrelative:advancedc#session01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\C#\\Route\\AdvancedC#Session01\\AdvancedC#Session01\\Program.cs",
+              "RelativeDocumentMoniker": "AdvancedC#Session01\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\C#\\Route\\AdvancedC#Session01\\AdvancedC#Session01\\Program.cs",
+              "RelativeToolTip": "AdvancedC#Session01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:58:33.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

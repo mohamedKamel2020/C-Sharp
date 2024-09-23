@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Problem Solve\DivideTwoIntegers\DivideTwoIntegers\bin\Debug\net8.0\DivideTwoIntegers.exe
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Problem Solve\DivideTwoIntegers\DivideTwoIntegers\bin\Debug\net8.0\DivideTwoIntegers.deps.json
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Problem Solve\DivideTwoIntegers\DivideTwoIntegers\bin\Debug\net8.0\DivideTwoIntegers.runtimeconfig.json
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Problem Solve\DivideTwoIntegers\DivideTwoIntegers\bin\Debug\net8.0\DivideTwoIntegers.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Problem Solve\DivideTwoIntegers\DivideTwoIntegers\bin\Debug\net8.0\DivideTwoIntegers.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Problem Solve\DivideTwoIntegers\DivideTwoIntegers\obj\Debug\net8.0\DivideTwoIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Problem Solve\DivideTwoIntegers\DivideTwoIntegers\obj\Debug\net8.0\DivideTwoIntegers.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Problem Solve\DivideTwoIntegers\DivideTwoIntegers\obj\Debug\net8.0\DivideTwoIntegers.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Problem Solve\DivideTwoIntegers\DivideTwoIntegers\obj\Debug\net8.0\DivideTwoIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Problem Solve\DivideTwoIntegers\DivideTwoIntegers\obj\Debug\net8.0\DivideTwoIntegers.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Problem Solve\DivideTwoIntegers\DivideTwoIntegers\obj\Debug\net8.0\refint\DivideTwoIntegers.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Problem Solve\DivideTwoIntegers\DivideTwoIntegers\obj\Debug\net8.0\DivideTwoIntegers.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Problem Solve\DivideTwoIntegers\DivideTwoIntegers\obj\Debug\net8.0\DivideTwoIntegers.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\Problem Solve\DivideTwoIntegers\DivideTwoIntegers\obj\Debug\net8.0\ref\DivideTwoIntegers.dll

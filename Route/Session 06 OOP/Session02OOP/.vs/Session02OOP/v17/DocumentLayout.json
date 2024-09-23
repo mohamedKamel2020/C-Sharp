@@ -1,22 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\",
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\C#\\Route\\Session 06 OOP\\Session02OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\c#\\route\\session 06 oop\\session02oop\\session02oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\my-code\\c#\\route\\session 06 oop\\session02oop\\session02oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|solutionrelative:session02oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\c#\\route\\session 06 oop\\session02oop\\session02oop\\operatoroverloading\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|solutionrelative:session02oop\\operatoroverloading\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\c#\\route\\session 06 oop\\session02oop\\session02oop\\operatoroverloading\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|solutionrelative:session02oop\\operatoroverloading\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\c#\\route\\session 06 oop\\session02oop\\session02oop\\operatoroverloading\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA49ED4F-E17A-4AD5-9017-9E59F75ABD92}|Session02OOP\\Session02OOP.csproj|solutionrelative:session02oop\\operatoroverloading\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,55 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeeViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\OperatorOverloading\\EmployeeViewModel.cs",
-              "RelativeDocumentMoniker": "Session02OOP\\OperatorOverloading\\EmployeeViewModel.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\OperatorOverloading\\EmployeeViewModel.cs",
-              "RelativeToolTip": "Session02OOP\\OperatorOverloading\\EmployeeViewModel.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAawBIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T01:37:50.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeModel.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\OperatorOverloading\\EmployeeModel.cs",
-              "RelativeDocumentMoniker": "Session02OOP\\OperatorOverloading\\EmployeeModel.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\OperatorOverloading\\EmployeeModel.cs",
-              "RelativeToolTip": "Session02OOP\\OperatorOverloading\\EmployeeModel.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAqwA4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T01:37:14.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Complex.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\OperatorOverloading\\Complex.cs",
-              "RelativeDocumentMoniker": "Session02OOP\\OperatorOverloading\\Complex.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\OperatorOverloading\\Complex.cs",
-              "RelativeToolTip": "Session02OOP\\OperatorOverloading\\Complex.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T23:59:12.887Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\Program.cs",
               "RelativeDocumentMoniker": "Session02OOP\\Program.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\C#\\Route\\Session 06 OOP\\Session02OOP\\Session02OOP\\Program.cs",
               "RelativeToolTip": "Session02OOP\\Program.cs",
-              "ViewState": "AQIAAM4AAAAAAAAAAAAAANEAAAAqAAAA",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAQwK8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T14:00:13.999Z",
               "EditorCaption": ""

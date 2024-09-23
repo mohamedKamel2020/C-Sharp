@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\MY PC\programing\My-code\C#\Route\AdvancedC#Session01\AdvancedC#Session01\bin\Debug\net8.0\AdvancedC#Session01.exe
+C:\Users\Dell\Desktop\MY PC\programing\My-code\C#\Route\AdvancedC#Session01\AdvancedC#Session01\bin\Debug\net8.0\AdvancedC#Session01.deps.json
+C:\Users\Dell\Desktop\MY PC\programing\My-code\C#\Route\AdvancedC#Session01\AdvancedC#Session01\bin\Debug\net8.0\AdvancedC#Session01.runtimeconfig.json
+C:\Users\Dell\Desktop\MY PC\programing\My-code\C#\Route\AdvancedC#Session01\AdvancedC#Session01\bin\Debug\net8.0\AdvancedC#Session01.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\C#\Route\AdvancedC#Session01\AdvancedC#Session01\bin\Debug\net8.0\AdvancedC#Session01.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\C#\Route\AdvancedC#Session01\AdvancedC#Session01\obj\Debug\net8.0\AdvancedC#Session01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MY PC\programing\My-code\C#\Route\AdvancedC#Session01\AdvancedC#Session01\obj\Debug\net8.0\AdvancedC#Session01.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\C#\Route\AdvancedC#Session01\AdvancedC#Session01\obj\Debug\net8.0\AdvancedC#Session01.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MY PC\programing\My-code\C#\Route\AdvancedC#Session01\AdvancedC#Session01\obj\Debug\net8.0\AdvancedC#Session01.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\C#\Route\AdvancedC#Session01\AdvancedC#Session01\obj\Debug\net8.0\AdvancedC#Session01.sourcelink.json
+C:\Users\Dell\Desktop\MY PC\programing\My-code\C#\Route\AdvancedC#Session01\AdvancedC#Session01\obj\Debug\net8.0\AdvancedC#Session01.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\C#\Route\AdvancedC#Session01\AdvancedC#Session01\obj\Debug\net8.0\refint\AdvancedC#Session01.dll
+C:\Users\Dell\Desktop\MY PC\programing\My-code\C#\Route\AdvancedC#Session01\AdvancedC#Session01\obj\Debug\net8.0\AdvancedC#Session01.pdb
+C:\Users\Dell\Desktop\MY PC\programing\My-code\C#\Route\AdvancedC#Session01\AdvancedC#Session01\obj\Debug\net8.0\AdvancedC#Session01.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MY PC\programing\My-code\C#\Route\AdvancedC#Session01\AdvancedC#Session01\obj\Debug\net8.0\ref\AdvancedC#Session01.dll
